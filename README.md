@@ -22,4 +22,4 @@ cd sfx && git sparse-checkout set --no-cone whoosh/<file> impact/<file>
 
 Check the SHA-256 against `index.json` or the EditAtlas record.
 
-1,351 sounds, 687 MB.
+2,278 sounds, 768 MB.
