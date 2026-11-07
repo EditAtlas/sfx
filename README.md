@@ -17,7 +17,7 @@ If raw.githubusercontent.com is blocked but github.com is not, fetch only the fi
 
 ```sh
 git clone --depth 1 --filter=blob:none --sparse https://github.com/EditAtlas/sfx.git sfx
-cd sfx && git sparse-checkout set --no-cone whoosh/<file> impact/<file>
+cd sfx && git sparse-checkout set --no-cone /whoosh/<file> /impact/<file>
 ```
 
 Check the SHA-256 against `index.json` or the EditAtlas record.
