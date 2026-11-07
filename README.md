@@ -10,13 +10,13 @@ EditAtlas catalog; changes made here are overwritten.
 ## Download one sound
 
 ```sh
-curl -fL -o whoosh.wav https://raw.githubusercontent.com/ptrgiang/EditAtlas-SFX/main/whoosh/<file>
+curl -fL -o whoosh.wav https://raw.githubusercontent.com/EditAtlas/sfx/main/whoosh/<file>
 ```
 
 If raw.githubusercontent.com is blocked but github.com is not, fetch only the files you need with git:
 
 ```sh
-git clone --depth 1 --filter=blob:none --sparse https://github.com/ptrgiang/EditAtlas-SFX.git sfx
+git clone --depth 1 --filter=blob:none --sparse https://github.com/EditAtlas/sfx.git sfx
 cd sfx && git sparse-checkout set --no-cone whoosh/<file> impact/<file>
 ```
 
