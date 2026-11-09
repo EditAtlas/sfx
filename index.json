@@ -1,6 +1,6 @@
 {
- "count": 2278,
- "bytes": 767780677,
+ "count": 2302,
+ "bytes": 775328413,
  "sounds": [
   {
    "id": "sfx-mi458453",
@@ -13,6 +13,18 @@
    "sha256": "e2bbaaebd88148ed15e0dd4378a1acc87df5752ddbaf6bdb181753dc2895acff",
    "path": "ambience/ambience-ambient-rain-and-thunder-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-ambient-rain-and-thunder-01.mp3"
+  },
+  {
+   "id": "sfx-fs146345",
+   "title": "Banquet Hall Chatter 01",
+   "category": "ambience",
+   "description": "A busy restaurant banquet hall with chatter and dishes. It lasts 4.01 seconds. The sound is mono.",
+   "description_vi": "Nhà hàng tiệc cưới đông người, tiếng nói chuyện và bát đĩa. Âm kéo dài 4,01 giây. Âm thanh mono.",
+   "duration_s": 4.008,
+   "bytes": 72608,
+   "sha256": "89df8469aac4a954939d3c369227205b419df6d517d00deb676d384f48981ee1",
+   "path": "ambience/ambience-banquet-hall-chatter-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-banquet-hall-chatter-01.mp3"
   },
   {
    "id": "sfx-c7d271e90f",
@@ -217,6 +229,18 @@
    "sha256": "df101a91c9fdd6e4f4e7a1e77b2fa6b60d90117078db036830a2bf3c01b93aa8",
    "path": "ambience/ambience-cycling-machine-roll-03.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-cycling-machine-roll-03.wav"
+  },
+  {
+   "id": "sfx-fs463302",
+   "title": "Diner Kitchen Bustle 01",
+   "category": "ambience",
+   "description": "A busy restaurant with voices and kitchen sounds. It lasts 23.85 seconds. The stereo field is wide.",
+   "description_vi": "Nhà hàng đông khách, tiếng người và tiếng bếp. Âm kéo dài 23,85 giây. Không gian stereo rộng.",
+   "duration_s": 23.853,
+   "bytes": 548588,
+   "sha256": "bbccb910fe3d23a652ddb7a95bf25498e6fd4a24a45226677da5a802aa075864",
+   "path": "ambience/ambience-diner-kitchen-bustle-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-diner-kitchen-bustle-01.mp3"
   },
   {
    "id": "sfx-cfecca5bd9",
@@ -832,27 +856,27 @@
   },
   {
    "id": "sfx-690ec942f4",
-   "title": "Shadowy Sizzling Rolling Bed 01",
+   "title": "Shadowy Sibilant Rolling Bed 01",
    "category": "ambience",
    "description": "Dark hissing rumbling ambience. For a background bed under a scene. It lasts 7.64 seconds, begins softly and fades quickly. The spectrum is bright; the stereo field is wide.",
    "description_vi": "Âm nền u tối với tiếng xì và tiếng rền trầm, dùng bên dưới một cảnh. Âm kéo dài 7,64 giây, bắt đầu nhẹ nhàng và tắt nhanh. Phổ sáng; không gian stereo rộng.",
    "duration_s": 7.642,
    "bytes": 2200908,
    "sha256": "078b07e6d93a646a31d42ae4fc376fe96930c274bf0b68d1f7ebab95be83f2e7",
-   "path": "ambience/ambience-shadowy-sizzling-rolling-bed-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-shadowy-sizzling-rolling-bed-01.wav"
+   "path": "ambience/ambience-shadowy-sibilant-rolling-bed-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-shadowy-sibilant-rolling-bed-01.wav"
   },
   {
    "id": "sfx-1531ae25df",
-   "title": "Sizzling Rolling Bed 01",
+   "title": "Sibilant Rolling Bed 01",
    "category": "ambience",
    "description": "Hissing rumbling ambience. For a background bed under a scene. It lasts 7.05 seconds and fades quickly. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Âm nền gồm tiếng xì và tiếng rền trầm, dùng bên dưới một cảnh. Âm kéo dài 7,05 giây và tắt nhanh. Phổ sáng; âm thanh stereo.",
    "duration_s": 7.055,
    "bytes": 2031978,
    "sha256": "702a3cfa327a304c86954926c498ebcac75175e8d349855838872037157a4345",
-   "path": "ambience/ambience-sizzling-rolling-bed-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-sizzling-rolling-bed-01.wav"
+   "path": "ambience/ambience-sibilant-rolling-bed-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-sibilant-rolling-bed-01.wav"
   },
   {
    "id": "sfx-b8a87e8098",
@@ -4359,6 +4383,42 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-bright-flash-01.mp3"
   },
   {
+   "id": "sfx-fs488578",
+   "title": "Broth Strand Sip 01",
+   "category": "foley",
+   "description": "Noodles slurped from a bowl. It lasts 8.89 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Tiếng húp sợi mì sụp soạp. Âm kéo dài 8,89 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 8.891,
+   "bytes": 208878,
+   "sha256": "3c4d9ce096da9b9ff0b66398df4d512de355d117a7a552bafd0e3c01eb46d33c",
+   "path": "foley/foley-broth-strand-sip-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-broth-strand-sip-01.mp3"
+  },
+  {
+   "id": "sfx-fs341067",
+   "title": "Bubbly Stream Fill 01",
+   "category": "foley",
+   "description": "Soda poured into a glass. It lasts 19.5 seconds, starts sharply and fades slowly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Rót nước ngọt có ga vào ly. Âm kéo dài 19,5 giây, khởi âm nhanh và tắt chậm. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 19.5,
+   "bytes": 551276,
+   "sha256": "934ba754c8f5e418dca6061add2f767f71f1e25aa9a38b07477dfe5e7aac7822",
+   "path": "foley/foley-bubbly-stream-fill-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-bubbly-stream-fill-01.mp3"
+  },
+  {
+   "id": "sfx-fs563213",
+   "title": "Capsicum Searing 01",
+   "category": "foley",
+   "description": "Peppers sizzling in a pan. It lasts 14.38 seconds and begins softly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Ớt xào xèo xèo trong chảo. Âm kéo dài 14,38 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
+   "duration_s": 14.379,
+   "bytes": 284996,
+   "sha256": "7754bce5785b8d575ed0af5234a9e5a09cd251fb9173caf8f2517ddba9bf1398",
+   "path": "foley/foley-capsicum-searing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-capsicum-searing-01.mp3"
+  },
+  {
    "id": "sfx-46b5f3fcb6",
    "title": "Cartoon Clatter 01",
    "category": "foley",
@@ -4527,6 +4587,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-chest-open-close-01.mp3"
   },
   {
+   "id": "sfx-fs379829",
+   "title": "Cookware Bubbling 01",
+   "category": "foley",
+   "description": "A pot boiling. It lasts 5.46 seconds and starts sharply. The sound is tonal; the sound is mono.",
+   "description_vi": "Nồi nước đang sôi. Âm kéo dài 5,46 giây, khởi âm nhanh. Âm có cao độ rõ; âm thanh mono.",
+   "duration_s": 5.459,
+   "bytes": 126885,
+   "sha256": "6011433f1dd605d04d48e218f22c2208e59b6fa818ea5a129bc0afb760e50f88",
+   "path": "foley/foley-cookware-bubbling-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cookware-bubbling-01.mp3"
+  },
+  {
    "id": "sfx-312ef5cad2",
    "title": "Crisp Brief Sheet Scrunch 01",
    "category": "foley",
@@ -4621,6 +4693,30 @@
    "sha256": "595ee7f033721fdc56aaadcc4eaa8817be30227a2c37cbc11b1cb8981fc5b869",
    "path": "foley/foley-crunchy-chomp-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-crunchy-chomp-01.mp3"
+  },
+  {
+   "id": "sfx-fs654244",
+   "title": "Cubes Tumbler Chink 01",
+   "category": "foley",
+   "description": "Ice clinking in a glass. It lasts 6.39 seconds, starts sharply and fades slowly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đá lanh canh trong ly. Âm kéo dài 6,39 giây, khởi âm nhanh và tắt chậm. Phổ sáng; âm thanh mono.",
+   "duration_s": 6.385,
+   "bytes": 167880,
+   "sha256": "fb4a94c340584759aa645d1b54f54a1177d0e9a5ecfa470175df37676334bef5",
+   "path": "foley/foley-cubes-tumbler-chink-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cubes-tumbler-chink-01.mp3"
+  },
+  {
+   "id": "sfx-fs382709",
+   "title": "Dairy Fat Searing 01",
+   "category": "foley",
+   "description": "Butter sizzling in a hot pan. It lasts 23.66 seconds and begins softly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Bơ chảy xèo xèo trong chảo nóng. Âm kéo dài 23,66 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
+   "duration_s": 23.658,
+   "bytes": 472301,
+   "sha256": "7428f06a72d2f7cdc052b69508b447490e9cb64bd8e2c162f20d79eb2cc4612b",
+   "path": "foley/foley-dairy-fat-searing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-dairy-fat-searing-01.mp3"
   },
   {
    "id": "sfx-mi120152",
@@ -5151,6 +5247,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-finger-snap-01.mp3"
   },
   {
+   "id": "sfx-fs95741",
+   "title": "Fizz Over Cubes 01",
+   "category": "foley",
+   "description": "A fizzy drink poured over ice. It lasts 17.41 seconds and begins softly. The spectrum is bright; the stereo field is narrow.",
+   "description_vi": "Rót nước ngọt có ga lên đá. Âm kéo dài 17,41 giây, bắt đầu nhẹ nhàng. Phổ sáng; không gian stereo hẹp.",
+   "duration_s": 17.408,
+   "bytes": 414716,
+   "sha256": "a5dc486ea225d2346df975e89f12dbd1569a543a2c9bafd83da505241a477d45",
+   "path": "foley/foley-fizz-over-cubes-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-fizz-over-cubes-01.mp3"
+  },
+  {
    "id": "sfx-mi306390",
    "title": "Flash Plop 01",
    "category": "foley",
@@ -5212,15 +5320,15 @@
   },
   {
    "id": "sfx-db869d59a2",
-   "title": "Futuristic Machine Sizzle 01",
+   "title": "Futuristic Machine Sibilance 01",
    "category": "foley",
    "description": "Sci-fi mechanical hiss. For things being touched, moved or broken. It lasts 1.32 seconds, starts sharply and fades slowly. The spectrum is bright; the stereo field is narrow.",
    "description_vi": "Tiếng xì cơ khí mang sắc thái viễn tưởng. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 1,32 giây, khởi âm nhanh và tắt chậm. Phổ sáng; không gian stereo hẹp.",
    "duration_s": 1.319,
    "bytes": 380052,
    "sha256": "4ea12de85916ea2def79ce126bd039c700ecec80dd96f7a7b007325c11f0bc76",
-   "path": "foley/foley-futuristic-machine-sizzle-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-futuristic-machine-sizzle-01.wav"
+   "path": "foley/foley-futuristic-machine-sibilance-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-futuristic-machine-sibilance-01.wav"
   },
   {
    "id": "sfx-8a9c7ff22c",
@@ -5341,6 +5449,18 @@
    "sha256": "bf1fb2cd33dd503b9c205dcda1c2356e1f158691bf884099cdcd2e15488ad86b",
    "path": "foley/foley-goblet-ring-04.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-goblet-ring-04.wav"
+  },
+  {
+   "id": "sfx-fs679946",
+   "title": "Grain Toss Searing 01",
+   "category": "foley",
+   "description": "Rice stir-fried in a wok, with the spatula scraping. It lasts 26.73 seconds and fades slowly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Cơm chiên đảo trong chảo, tiếng xẻng cạ chảo. Âm kéo dài 26,73 giây và tắt chậm. Phổ sáng; âm thanh mono.",
+   "duration_s": 26.735,
+   "bytes": 513290,
+   "sha256": "7bbfa357f436a51928dcb4e601db186f258501a7318be0399aa5010a4171cf7f",
+   "path": "foley/foley-grain-toss-searing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-grain-toss-searing-01.mp3"
   },
   {
    "id": "sfx-fs337089",
@@ -5500,15 +5620,27 @@
   },
   {
    "id": "sfx-05a221d6e7",
-   "title": "Layered Data Sizzle 01",
+   "title": "Layered Data Sibilance 01",
    "category": "foley",
    "description": "Combined digital hiss. For things being touched, moved or broken. It lasts 4.92 seconds and starts sharply. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Tiếng xì nhiễu số pha trộn. Phù hợp với cảnh đồ vật được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 4,92 giây, khởi âm nhanh. Phổ sáng; âm thanh stereo.",
    "duration_s": 4.923,
    "bytes": 1417818,
    "sha256": "68e08068d369f18881d12c9354aa5a865976e810042c8c87a344fb1220451fdb",
-   "path": "foley/foley-layered-data-sizzle-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-layered-data-sizzle-01.wav"
+   "path": "foley/foley-layered-data-sibilance-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-layered-data-sibilance-01.wav"
+  },
+  {
+   "id": "sfx-fs125521",
+   "title": "Leafy Dicing 01",
+   "category": "foley",
+   "description": "Lettuce chopped on a cutting board. It lasts 25.65 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Thái rau xà lách trên thớt. Âm kéo dài 25,65 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 25.654,
+   "bytes": 581036,
+   "sha256": "a2bb18931a5007e255cb7ad94abccd94b3e9936708fa9aa9cc33be4698d3ddb0",
+   "path": "foley/foley-leafy-dicing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-leafy-dicing-01.mp3"
   },
   {
    "id": "sfx-mi88014",
@@ -5656,111 +5788,111 @@
   },
   {
    "id": "sfx-50b35fdf47",
-   "title": "Mist Sizzle 01",
+   "title": "Mist Sibilance 01",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 0.32 seconds and fades quickly. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 0,32 giây và tắt nhanh. Phổ sáng; âm thanh mono.",
    "duration_s": 0.323,
    "bytes": 46554,
    "sha256": "4d2258c02aa2c6276be945df49f896ac2c65302415f4088a217b23351489cbac",
-   "path": "foley/foley-mist-sizzle-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-01.wav"
+   "path": "foley/foley-mist-sibilance-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-01.wav"
   },
   {
    "id": "sfx-9a5b111009",
-   "title": "Mist Sizzle 02",
+   "title": "Mist Sibilance 02",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 0.34 seconds. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 0,34 giây. Phổ sáng; âm thanh mono.",
    "duration_s": 0.338,
    "bytes": 48766,
    "sha256": "68f3e8656358ba36e5be75c573ddf0ca1074681badc20032ee043a4f5ff67a95",
-   "path": "foley/foley-mist-sizzle-02.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-02.wav"
+   "path": "foley/foley-mist-sibilance-02.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-02.wav"
   },
   {
    "id": "sfx-f082083aa4",
-   "title": "Mist Sizzle 03",
+   "title": "Mist Sibilance 03",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 0.47 seconds. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 0,47 giây. Phổ sáng; âm thanh mono.",
    "duration_s": 0.467,
    "bytes": 67378,
    "sha256": "541127c970752725b21f6cba3aecad6275cafc1a47e9e2d603803d011fa0e1c7",
-   "path": "foley/foley-mist-sizzle-03.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-03.wav"
+   "path": "foley/foley-mist-sibilance-03.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-03.wav"
   },
   {
    "id": "sfx-a9a5199edf",
-   "title": "Mist Sizzle 04",
+   "title": "Mist Sibilance 04",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 0.95 seconds. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 0,95 giây. Phổ sáng; âm thanh mono.",
    "duration_s": 0.952,
    "bytes": 137224,
    "sha256": "31710892190e90b142403acb8ee4b406d8346830846adb4b34ee63c01dd107ec",
-   "path": "foley/foley-mist-sizzle-04.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-04.wav"
+   "path": "foley/foley-mist-sibilance-04.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-04.wav"
   },
   {
    "id": "sfx-b0e20db01e",
-   "title": "Mist Sizzle 05",
+   "title": "Mist Sibilance 05",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 0.53 seconds. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 0,53 giây. Phổ sáng; âm thanh mono.",
    "duration_s": 0.527,
    "bytes": 75946,
    "sha256": "f40dda6704352378be83fa33bca5cebf49024fc015e22c2a8b40483b527b3c2f",
-   "path": "foley/foley-mist-sizzle-05.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-05.wav"
+   "path": "foley/foley-mist-sibilance-05.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-05.wav"
   },
   {
    "id": "sfx-e9866700b1",
-   "title": "Mist Sizzle 06",
+   "title": "Mist Sibilance 06",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 1.34 seconds. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 1,34 giây. Phổ sáng; âm thanh mono.",
    "duration_s": 1.338,
    "bytes": 192742,
    "sha256": "ec94f509a76d0708dc5efc4e6ad958aaa795081a96d3007ddc41d93a57ff21e5",
-   "path": "foley/foley-mist-sizzle-06.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-06.wav"
+   "path": "foley/foley-mist-sibilance-06.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-06.wav"
   },
   {
    "id": "sfx-69bbf35f48",
-   "title": "Mist Sizzle 07",
+   "title": "Mist Sibilance 07",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 1.95 seconds, begins softly and fades slowly. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 1,95 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; âm thanh mono.",
    "duration_s": 1.946,
    "bytes": 280296,
    "sha256": "3311e82fd76913f0939c18ce194630625ca71a36526cfe5ce3c3b6e89e7f869b",
-   "path": "foley/foley-mist-sizzle-07.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-07.wav"
+   "path": "foley/foley-mist-sibilance-07.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-07.wav"
   },
   {
    "id": "sfx-356c25d9d6",
-   "title": "Mist Sizzle 08",
+   "title": "Mist Sibilance 08",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 3.76 seconds, begins softly and fades slowly. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 3,76 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; âm thanh mono.",
    "duration_s": 3.756,
    "bytes": 540946,
    "sha256": "65f2fc7d5e6a7a97b33c0a720a1db9527420509ee01a21aa9838cf5ea9d881ab",
-   "path": "foley/foley-mist-sizzle-08.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-08.wav"
+   "path": "foley/foley-mist-sibilance-08.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-08.wav"
   },
   {
    "id": "sfx-72257e6828",
-   "title": "Mist Sizzle 09",
+   "title": "Mist Sibilance 09",
    "category": "foley",
    "description": "Spray hiss. For things being touched, moved or broken. It lasts 2.21 seconds, begins softly and fades slowly. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì phát ra khi phun. Dùng cho các vật thể được chạm vào, di chuyển hoặc làm vỡ. Âm kéo dài 2,21 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; âm thanh mono.",
    "duration_s": 2.208,
    "bytes": 318028,
    "sha256": "e5e25fc3aa92793b7a1ad5fbdfd8ac491954a1cfd149914f5d4155b316f2d03d",
-   "path": "foley/foley-mist-sizzle-09.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sizzle-09.wav"
+   "path": "foley/foley-mist-sibilance-09.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mist-sibilance-09.wav"
   },
   {
    "id": "sfx-mi555829",
@@ -6531,6 +6663,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-russian-aperture-01.mp3"
   },
   {
+   "id": "sfx-fs381715",
+   "title": "Seared Cuts Pan 01",
+   "category": "foley",
+   "description": "Meat sizzling in a pan. It lasts 8.58 seconds and begins softly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Thịt xèo xèo trong chảo. Âm kéo dài 8,58 giây, bắt đầu nhẹ nhàng. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 8.582,
+   "bytes": 199571,
+   "sha256": "a604a8f654394acafb1b31419e24fc8d7199d9a7fcfb89ec41ff65cf135de990",
+   "path": "foley/foley-seared-cuts-pan-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-seared-cuts-pan-01.mp3"
+  },
+  {
    "id": "sfx-mi236652",
    "title": "Sheet Crumpling 01",
    "category": "foley",
@@ -6625,6 +6769,18 @@
    "sha256": "1e7aa89d24b59bda4b147ba1304068fdb38d7d0088805b923185390f27facca4",
    "path": "foley/foley-shuffling-sheet-leaf-flip-05.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-shuffling-sheet-leaf-flip-05.wav"
+  },
+  {
+   "id": "sfx-fs709951",
+   "title": "Skillet Oil Spatter 01",
+   "category": "foley",
+   "description": "An egg frying in hot oil in a pan. It lasts 20.34 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Trứng chiên xèo trong dầu nóng. Âm kéo dài 20,34 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 20.338,
+   "bytes": 384175,
+   "sha256": "4906c3497be23f462a81dae64bcaf541e3afd2f13fac2b5dfd37a851c08aa38b",
+   "path": "foley/foley-skillet-oil-spatter-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-skillet-oil-spatter-01.mp3"
   },
   {
    "id": "sfx-mi230430",
@@ -6757,6 +6913,18 @@
    "sha256": "df1ad6fc55355d4894a78ddb3e9cc2cacb1a5c129522c4f2a4910814ad1a20ad",
    "path": "foley/foley-sparkling-clockwork-chinks-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-sparkling-clockwork-chinks-01.wav"
+  },
+  {
+   "id": "sfx-fs118616",
+   "title": "Spatula Flip Searing 01",
+   "category": "foley",
+   "description": "Food sizzling in a pan as a spatula scrapes and turns it. It lasts 23.32 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đồ ăn xèo trong chảo, xẻng cạ và lật. Âm kéo dài 23,32 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 23.323,
+   "bytes": 572396,
+   "sha256": "2f0e0842af9184767bc2f11fad43cdbf346379914c95adf78f11aceb71f85fd8",
+   "path": "foley/foley-spatula-flip-searing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-spatula-flip-searing-01.mp3"
   },
   {
    "id": "sfx-11fd0ba1be",
@@ -6939,6 +7107,42 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-steady-throb-01.mp3"
   },
   {
+   "id": "sfx-fs360717",
+   "title": "Stew Bubbling 01",
+   "category": "foley",
+   "description": "Food bubbling as it boils in a pot. It lasts 9.81 seconds. The sound is mono.",
+   "description_vi": "Nồi đồ ăn sôi lục bục. Âm kéo dài 9,81 giây. Âm thanh mono.",
+   "duration_s": 9.808,
+   "bytes": 226254,
+   "sha256": "58b686abf1996a2de11cb96db4697186a2b321242688f615ec1075af5a364bb3",
+   "path": "foley/foley-stew-bubbling-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-stew-bubbling-01.mp3"
+  },
+  {
+   "id": "sfx-fs345003",
+   "title": "Sticks Utensil Pat 01",
+   "category": "foley",
+   "description": "Chopsticks tapping and clicking together. It lasts 16.82 seconds, starts sharply and fades quickly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Đũa gõ và chạm vào nhau. Âm kéo dài 16,82 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 16.817,
+   "bytes": 395419,
+   "sha256": "539bd29ef1b5128ad179f0869bfea348befabffe411c3ab85716f964caaca25a",
+   "path": "foley/foley-sticks-utensil-pat-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-sticks-utensil-pat-01.mp3"
+  },
+  {
+   "id": "sfx-fs456382",
+   "title": "Stove Water Bubbling 01",
+   "category": "foley",
+   "description": "A pot of water boiling on the stove. It lasts 14.38 seconds, begins softly and fades slowly. The sound is in stereo.",
+   "description_vi": "Nồi nước sôi trên bếp. Âm kéo dài 14,38 giây, bắt đầu nhẹ nhàng và tắt chậm. Âm thanh stereo.",
+   "duration_s": 14.381,
+   "bytes": 328520,
+   "sha256": "12cd432e28cc98cf545e41081af643b1350f340486dffcb750d164b8cd0f047d",
+   "path": "foley/foley-stove-water-bubbling-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-stove-water-bubbling-01.mp3"
+  },
+  {
    "id": "sfx-25cfc32fde",
    "title": "Stretchy Poly Crisp 01",
    "category": "foley",
@@ -7035,6 +7239,30 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-stretchy-shuffle-03.wav"
   },
   {
+   "id": "sfx-fs239639",
+   "title": "Strip Pork Spatter 01",
+   "category": "foley",
+   "description": "Bacon sizzling and spitting in a frying pan. It lasts 14.91 seconds. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Thịt ba chỉ chiên xèo xèo, mỡ bắn lách tách trong chảo. Âm kéo dài 14,91 giây. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 14.907,
+   "bytes": 366667,
+   "sha256": "03ca587026409c8815a4a7af4598d851df6e0c29ea6a6867b5ec2d0b957911e2",
+   "path": "foley/foley-strip-pork-spatter-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-strip-pork-spatter-01.mp3"
+  },
+  {
+   "id": "sfx-fs654242",
+   "title": "Swallow Gulp 01",
+   "category": "foley",
+   "description": "Someone taking a drink and swallowing. It lasts 1.84 seconds and begins softly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Uống một ngụm, tiếng nuốt. Âm kéo dài 1,84 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.84,
+   "bytes": 47219,
+   "sha256": "962294251c3e5df5693e88c05336ccf18a99294546c244cf980f16ea2bb0ed45",
+   "path": "foley/foley-swallow-gulp-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-swallow-gulp-01.mp3"
+  },
+  {
    "id": "sfx-67f793032b",
    "title": "Sword Unsheathe 01",
    "category": "foley",
@@ -7117,6 +7345,54 @@
    "sha256": "ca0c36dfbeb002ac14fd65db6f913ee7b5b44919685b6eaee77d37bb7047e77f",
    "path": "foley/foley-synth-ring-06.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-synth-ring-06.wav"
+  },
+  {
+   "id": "sfx-fs175830",
+   "title": "Tab Pull Fizz 01",
+   "category": "foley",
+   "description": "A drink can opened, with a short fizz. It lasts 13.29 seconds and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Mở lon nước, tiếng xì ngắn. Âm kéo dài 13,29 giây và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 13.29,
+   "bytes": 305696,
+   "sha256": "f2ac512aa8b846fd8cf200e1e831552ec3c5dda48dd28e1b364b0f9107c3e80b",
+   "path": "foley/foley-tab-pull-fizz-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tab-pull-fizz-01.mp3"
+  },
+  {
+   "id": "sfx-fs386887",
+   "title": "Tab Snap Fizz 01",
+   "category": "foley",
+   "description": "A soda can opened, with a fizz. It lasts 2.2 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Bật nắp lon nước ngọt, xì ga. Âm kéo dài 2,2 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 2.202,
+   "bytes": 50921,
+   "sha256": "2688448b46b5017a9b14676d036d03dd2c336f2270649ebfbc10bc772b580b37",
+   "path": "foley/foley-tab-snap-fizz-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tab-snap-fizz-01.mp3"
+  },
+  {
+   "id": "sfx-fs689705",
+   "title": "Tab Snap Release 01",
+   "category": "foley",
+   "description": "A drink can snapped open with a burst of fizz. It lasts 3.5 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Bật lon nước, ga xì mạnh. Âm kéo dài 3,5 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 3.5,
+   "bytes": 63524,
+   "sha256": "7dd7d5e203446383587f2de13510c537f043c255a92a5e794e6de91e6963e49f",
+   "path": "foley/foley-tab-snap-release-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tab-snap-release-01.mp3"
+  },
+  {
+   "id": "sfx-fs382576",
+   "title": "Table Strand Sipping 01",
+   "category": "foley",
+   "description": "Several people slurping noodles at a table. It lasts 15.69 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Nhiều người húp mì quanh bàn ăn. Âm kéo dài 15,69 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 15.688,
+   "bytes": 378097,
+   "sha256": "7cfc40b31ec598ad35dadf2693bb8039ddc9764ad821c2308181985f53a4904f",
+   "path": "foley/foley-table-strand-sipping-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-table-strand-sipping-01.mp3"
   },
   {
    "id": "sfx-mi256876",
@@ -7345,6 +7621,18 @@
    "sha256": "b3234f3c9da94441575d2e1fcad93edd394f67ef35dd75f39a722b36eab87292",
    "path": "foley/foley-voice-aperture-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-voice-aperture-01.mp3"
+  },
+  {
+   "id": "sfx-fs556764",
+   "title": "Water Bubbling Fast 01",
+   "category": "foley",
+   "description": "Water at a full rolling boil. It lasts 15.53 seconds and begins softly. The sound is mono.",
+   "description_vi": "Nước sôi sùng sục. Âm kéo dài 15,53 giây, bắt đầu nhẹ nhàng. Âm thanh mono.",
+   "duration_s": 15.534,
+   "bytes": 286823,
+   "sha256": "8c6f613b9007057173745b6aeb16a3f70165df7ebbc91071229261ad4bac987a",
+   "path": "foley/foley-water-bubbling-fast-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-water-bubbling-fast-01.mp3"
   },
   {
    "id": "sfx-mi528787",
@@ -8224,63 +8512,63 @@
   },
   {
    "id": "sfx-9a2a741555",
-   "title": "Heavy Broken Sizzle 01",
+   "title": "Heavy Broken Sibilance 01",
    "category": "glitch",
    "description": "Strong glitchy hiss. For noisy picture and digital breaks. It lasts 8 seconds, begins softly and fades slowly. The spectrum is bright; the stereo field is narrow.",
    "description_vi": "Tiếng xì nhiễu glitch mạnh. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 8 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; không gian stereo hẹp.",
    "duration_s": 8.0,
    "bytes": 2304102,
    "sha256": "98a84171290126054a8958a1f025a005ba9d1a6c361621ce334b85f87065ce3a",
-   "path": "glitch/glitch-heavy-broken-sizzle-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sizzle-01.wav"
+   "path": "glitch/glitch-heavy-broken-sibilance-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sibilance-01.wav"
   },
   {
    "id": "sfx-9efa4b9f24",
-   "title": "Heavy Broken Sizzle 02",
+   "title": "Heavy Broken Sibilance 02",
    "category": "glitch",
    "description": "Strong glitchy hiss. For noisy picture and digital breaks. It lasts 8.16 seconds, begins softly and fades slowly. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Tiếng xì nhiễu glitch mạnh. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 8,16 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; âm thanh stereo.",
    "duration_s": 8.163,
    "bytes": 2351124,
    "sha256": "117f8fe4274cd9f4c2ad318a4f9096f218e880e56c5faf66fc277e524337a4c4",
-   "path": "glitch/glitch-heavy-broken-sizzle-02.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sizzle-02.wav"
+   "path": "glitch/glitch-heavy-broken-sibilance-02.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sibilance-02.wav"
   },
   {
    "id": "sfx-23cf09faa6",
-   "title": "Heavy Broken Sizzle 03",
+   "title": "Heavy Broken Sibilance 03",
    "category": "glitch",
    "description": "Strong glitchy hiss. For noisy picture and digital breaks. It lasts 5.8 seconds and begins softly. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Tiếng xì nhiễu glitch mạnh. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 5,8 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh stereo.",
    "duration_s": 5.803,
    "bytes": 1671462,
    "sha256": "801e6522a745ded3a461829b69da390fd2469f22702eb56cbb746a9aa98a4682",
-   "path": "glitch/glitch-heavy-broken-sizzle-03.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sizzle-03.wav"
+   "path": "glitch/glitch-heavy-broken-sibilance-03.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sibilance-03.wav"
   },
   {
    "id": "sfx-e3b5ca5868",
-   "title": "Heavy Broken Sizzle 04",
+   "title": "Heavy Broken Sibilance 04",
    "category": "glitch",
    "description": "Strong glitchy hiss. For noisy picture and digital breaks. It lasts 12.28 seconds and starts sharply. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Tiếng xì nhiễu glitch mạnh. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 12,28 giây, khởi âm nhanh. Phổ sáng; âm thanh stereo.",
    "duration_s": 12.282,
    "bytes": 3537318,
    "sha256": "d5ec2e8971d6a30bf85aea1337105d36d8cd1e32f7bf4470b19f0d23b218fa4a",
-   "path": "glitch/glitch-heavy-broken-sizzle-04.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sizzle-04.wav"
+   "path": "glitch/glitch-heavy-broken-sibilance-04.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sibilance-04.wav"
   },
   {
    "id": "sfx-668cdc610b",
-   "title": "Heavy Broken Sizzle 05",
+   "title": "Heavy Broken Sibilance 05",
    "category": "glitch",
    "description": "Strong glitchy hiss. For noisy picture and digital breaks. It lasts 20.57 seconds, begins softly and fades slowly. The spectrum is bright; the stereo field is wide.",
    "description_vi": "Tiếng xì nhiễu glitch mạnh. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 20,57 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; không gian stereo rộng.",
    "duration_s": 20.571,
    "bytes": 5924676,
    "sha256": "d766b0af91f047692598aa4ac5c32fc9a485f4007371b251f09349f440010959",
-   "path": "glitch/glitch-heavy-broken-sizzle-05.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sizzle-05.wav"
+   "path": "glitch/glitch-heavy-broken-sibilance-05.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-heavy-broken-sibilance-05.wav"
   },
   {
    "id": "sfx-7142dd064f",
@@ -8452,99 +8740,99 @@
   },
   {
    "id": "sfx-856ee68dd8",
-   "title": "Light Broken Sizzle 01",
+   "title": "Light Broken Sibilance 01",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 6.49 seconds and fades slowly. The spectrum is bright; the sound is in stereo.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 6,49 giây và tắt chậm. Phổ sáng; âm thanh stereo.",
    "duration_s": 6.494,
    "bytes": 1870230,
    "sha256": "63e5ec09b1e5b5e09e33f95261c81b824d035efb4e4fc381c509b258fd63ddd7",
-   "path": "glitch/glitch-light-broken-sizzle-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-01.wav"
+   "path": "glitch/glitch-light-broken-sibilance-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-01.wav"
   },
   {
    "id": "sfx-09836b2a4b",
-   "title": "Light Broken Sizzle 02",
+   "title": "Light Broken Sibilance 02",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 7.42 seconds, begins softly and fades slowly. The spectrum is bright; the stereo field is wide.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 7,42 giây, bắt đầu nhẹ nhàng và tắt chậm. Phổ sáng; không gian stereo rộng.",
    "duration_s": 7.421,
    "bytes": 2137392,
    "sha256": "c82dc1c41e624e96d1e4272adba271980c0bfcab1ab62716168b9c0783089290",
-   "path": "glitch/glitch-light-broken-sizzle-02.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-02.wav"
+   "path": "glitch/glitch-light-broken-sibilance-02.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-02.wav"
   },
   {
    "id": "sfx-10a8e5bcff",
-   "title": "Light Broken Sizzle 03",
+   "title": "Light Broken Sibilance 03",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 1.85 seconds and begins softly. The sound is tonal; the sound is mono.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 1,85 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; âm thanh mono.",
    "duration_s": 1.85,
    "bytes": 533004,
    "sha256": "0fe6f7d3ca16281a27ce1b447d598a394b6f256670bd717aed2508585338c8e1",
-   "path": "glitch/glitch-light-broken-sizzle-03.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-03.wav"
+   "path": "glitch/glitch-light-broken-sibilance-03.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-03.wav"
   },
   {
    "id": "sfx-1a416da2b8",
-   "title": "Light Broken Sizzle 04",
+   "title": "Light Broken Sibilance 04",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 1.3 seconds. The sound is tonal; the stereo field is narrow.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 1,3 giây. Âm có cao độ rõ; không gian stereo hẹp.",
    "duration_s": 1.302,
    "bytes": 375000,
    "sha256": "d64626deaf0ad7cdab67a00c823e627287e80379134f690ec2fa4c6ceca0f2f7",
-   "path": "glitch/glitch-light-broken-sizzle-04.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-04.wav"
+   "path": "glitch/glitch-light-broken-sibilance-04.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-04.wav"
   },
   {
    "id": "sfx-fe73587e22",
-   "title": "Light Broken Sizzle 05",
+   "title": "Light Broken Sibilance 05",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 1.33 seconds. The sound is tonal; the sound is mono.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 1,33 giây. Âm có cao độ rõ; âm thanh mono.",
    "duration_s": 1.326,
    "bytes": 381948,
    "sha256": "0f66f2fd1c06b4ddc6795162ef2abb2d4f23181d141fb64fba67c91af5738609",
-   "path": "glitch/glitch-light-broken-sizzle-05.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-05.wav"
+   "path": "glitch/glitch-light-broken-sibilance-05.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-05.wav"
   },
   {
    "id": "sfx-f016e9fc24",
-   "title": "Light Broken Sizzle 06",
+   "title": "Light Broken Sibilance 06",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 2.4 seconds and starts sharply. The sound is tonal; the stereo field is narrow.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 2,4 giây, khởi âm nhanh. Âm có cao độ rõ; không gian stereo hẹp.",
    "duration_s": 2.398,
    "bytes": 690714,
    "sha256": "ab75ed9b6f13cb368678ea2ce68e19b5303b5831cb2ea4298b58550e751f9dfd",
-   "path": "glitch/glitch-light-broken-sizzle-06.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-06.wav"
+   "path": "glitch/glitch-light-broken-sibilance-06.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-06.wav"
   },
   {
    "id": "sfx-7fe2d20d72",
-   "title": "Light Broken Sizzle 07",
+   "title": "Light Broken Sibilance 07",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 0.85 seconds and begins softly. The spectrum is bright; the sound is mono.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 0,85 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
    "duration_s": 0.848,
    "bytes": 244410,
    "sha256": "5e5b3e2cdf2f03d747ef30b7f61984662e1ae565990433d66ae2395ea1c4c718",
-   "path": "glitch/glitch-light-broken-sizzle-07.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-07.wav"
+   "path": "glitch/glitch-light-broken-sibilance-07.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-07.wav"
   },
   {
    "id": "sfx-7a561c2f50",
-   "title": "Light Broken Sizzle 08",
+   "title": "Light Broken Sibilance 08",
    "category": "glitch",
    "description": "Soft glitchy hiss. For noisy picture and digital breaks. It lasts 1.22 seconds and fades quickly. The spectrum is bright; the stereo field is narrow.",
    "description_vi": "Tiếng xì nhẹ, méo nhiễu kiểu glitch. Dùng cho hình ảnh nhiễu và các đoạn ngắt kỹ thuật số. Âm kéo dài 1,22 giây và tắt nhanh. Phổ sáng; không gian stereo hẹp.",
    "duration_s": 1.222,
    "bytes": 352002,
    "sha256": "275e25805bf560b7d9f609b103e18acd2e0c0ac7095a97567fc33c9349543e58",
-   "path": "glitch/glitch-light-broken-sizzle-08.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sizzle-08.wav"
+   "path": "glitch/glitch-light-broken-sibilance-08.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/glitch/glitch-light-broken-sibilance-08.wav"
   },
   {
    "id": "sfx-54a2c9c287",
@@ -14872,123 +15160,123 @@
   },
   {
    "id": "sfx-c1b050fada",
-   "title": "Sizzling Build 01",
+   "title": "Sibilant Build 01",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 1.3 seconds and begins softly. The spectrum is bright; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 1,3 giây, bắt đầu nhẹ nhàng. Phổ sáng; không gian stereo rộng.",
    "duration_s": 1.304,
    "bytes": 375744,
    "sha256": "90ddd527655f5c39d41f6fbfe4bbf8228df3be0eaa491aa63ac6c60bf64c96b0",
-   "path": "riser/riser-sizzling-build-01.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-01.wav"
+   "path": "riser/riser-sibilant-build-01.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-01.wav"
   },
   {
    "id": "sfx-1aa5bcd399",
-   "title": "Sizzling Build 02",
+   "title": "Sibilant Build 02",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 3.16 seconds and begins softly. The sound is tonal; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 3,16 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; không gian stereo rộng.",
    "duration_s": 3.159,
    "bytes": 909990,
    "sha256": "13458485dd4afb0a982d3a9b4adc6e55cf89c6649a9dd2432b331c04fb6dcde6",
-   "path": "riser/riser-sizzling-build-02.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-02.wav"
+   "path": "riser/riser-sibilant-build-02.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-02.wav"
   },
   {
    "id": "sfx-49880578f1",
-   "title": "Sizzling Build 03",
+   "title": "Sibilant Build 03",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 1.02 seconds and begins softly. The sound has a bright, tonal character; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 1,02 giây, bắt đầu nhẹ nhàng. Âm có phổ sáng và cao độ rõ; không gian stereo rộng.",
    "duration_s": 1.022,
    "bytes": 294318,
    "sha256": "04666176f1ad00eed25065da12775cf5f73997670225db223d7c015785437092",
-   "path": "riser/riser-sizzling-build-03.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-03.wav"
+   "path": "riser/riser-sibilant-build-03.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-03.wav"
   },
   {
    "id": "sfx-9d328b24bf",
-   "title": "Sizzling Build 04",
+   "title": "Sibilant Build 04",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 4.09 seconds and begins softly. The sound has a bright, tonal character; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 4,09 giây, bắt đầu nhẹ nhàng. Âm có phổ sáng và cao độ rõ; không gian stereo rộng.",
    "duration_s": 4.086,
    "bytes": 1176996,
    "sha256": "d10976ec582d6fcf487bfd5ca76db30ae836c8197f6a08a63ef75dd17401b88b",
-   "path": "riser/riser-sizzling-build-04.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-04.wav"
+   "path": "riser/riser-sibilant-build-04.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-04.wav"
   },
   {
    "id": "sfx-375da34184",
-   "title": "Sizzling Build 05",
+   "title": "Sibilant Build 05",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 1.75 seconds and begins softly. The sound is tonal; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 1,75 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; không gian stereo rộng.",
    "duration_s": 1.751,
    "bytes": 504366,
    "sha256": "03f5f70f35152ca3ed152d410d40146e6704a700046213f742baa90e6a7f5bec",
-   "path": "riser/riser-sizzling-build-05.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-05.wav"
+   "path": "riser/riser-sibilant-build-05.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-05.wav"
   },
   {
    "id": "sfx-a37c87ba79",
-   "title": "Sizzling Build 06",
+   "title": "Sibilant Build 06",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 2.94 seconds and begins softly. The sound is tonal; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 2,94 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; không gian stereo rộng.",
    "duration_s": 2.935,
    "bytes": 845304,
    "sha256": "67e6c969c5c7f7f68070ef7f83c2d2f33b26f235d5267d768feb0b430ff460e4",
-   "path": "riser/riser-sizzling-build-06.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-06.wav"
+   "path": "riser/riser-sibilant-build-06.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-06.wav"
   },
   {
    "id": "sfx-8cea8c0390",
-   "title": "Sizzling Build 07",
+   "title": "Sibilant Build 07",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 0.95 seconds, begins softly and fades quickly. The spectrum is bright; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 0,95 giây, bắt đầu nhẹ nhàng và tắt nhanh. Phổ sáng; không gian stereo rộng.",
    "duration_s": 0.95,
    "bytes": 273702,
    "sha256": "a622db847427abc88bf192d057ae65c192eebf135f659de8897db19d4d289910",
-   "path": "riser/riser-sizzling-build-07.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-07.wav"
+   "path": "riser/riser-sibilant-build-07.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-07.wav"
   },
   {
    "id": "sfx-6d8f255209",
-   "title": "Sizzling Build 08",
+   "title": "Sibilant Build 08",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 1.29 seconds and begins softly. The sound is tonal; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 1,29 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; không gian stereo rộng.",
    "duration_s": 1.29,
    "bytes": 371718,
    "sha256": "926b1f3163c135c74ab6dd3120173aef66fb22ceaaa0fd67fa51718800403f02",
-   "path": "riser/riser-sizzling-build-08.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-08.wav"
+   "path": "riser/riser-sibilant-build-08.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-08.wav"
   },
   {
    "id": "sfx-1eb01839bd",
-   "title": "Sizzling Build 09",
+   "title": "Sibilant Build 09",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 9.38 seconds. The stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 9,38 giây. Không gian stereo rộng.",
    "duration_s": 9.375,
    "bytes": 2700090,
    "sha256": "73776c03c3d36acc091994a00262448f9e38bfa0342191c3f8c370d5959b4e7c",
-   "path": "riser/riser-sizzling-build-09.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-09.wav"
+   "path": "riser/riser-sibilant-build-09.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-09.wav"
   },
   {
    "id": "sfx-971a18b204",
-   "title": "Sizzling Build 10",
+   "title": "Sibilant Build 10",
    "category": "riser",
    "description": "Hissing approach. For building tension before a moment. It lasts 7.27 seconds, starts sharply and fades slowly. The sound is tonal; the stereo field is wide.",
    "description_vi": "Tiếng xì dồn tới, giúp tăng căng thẳng trước một khoảnh khắc. Âm kéo dài 7,27 giây, khởi âm nhanh và tắt chậm. Âm có cao độ rõ; không gian stereo rộng.",
    "duration_s": 7.273,
    "bytes": 2094750,
    "sha256": "699334796e47bfdea56d639d86da3b0040fa71a20003ddafaea754aabb9ee9b3",
-   "path": "riser/riser-sizzling-build-10.wav",
-   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sizzling-build-10.wav"
+   "path": "riser/riser-sibilant-build-10.wav",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/riser/riser-sibilant-build-10.wav"
   },
   {
    "id": "sfx-mi545925",
