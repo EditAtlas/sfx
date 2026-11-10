@@ -1,6 +1,6 @@
 # EditAtlas sound effects
 
-The sound files of [EditAtlas](https://edit.trysometh.ing/sounds), mirrored for agents whose sandbox can reach github.com
+The sound files of [EditAtlas](https://edit.trysometh.ing/sfx), mirrored for agents whose sandbox can reach github.com
 but not edit.trysometh.ing. Search and descriptions live on EditAtlas, through its MCP server or `/api/v1/sfx`. Each
 sound there has a `github_download_url` that points into this repo.
 
