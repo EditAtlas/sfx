@@ -1,6 +1,6 @@
 {
- "count": 2302,
- "bytes": 775328413,
+ "count": 2341,
+ "bytes": 790416799,
  "sounds": [
   {
    "id": "sfx-mi458453",
@@ -27,6 +27,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-banquet-hall-chatter-01.mp3"
   },
   {
+   "id": "sfx-fs405140",
+   "title": "Breeze Through Foliage 01",
+   "category": "ambience",
+   "description": "Leaves falling on a forest floor in a moderate wind. It lasts 19.46 seconds. The sound has a bright, tonal character; the sound is in stereo.",
+   "description_vi": "Lá rơi trong rừng, gió vừa. Âm kéo dài 19,46 giây. Âm có phổ sáng và cao độ rõ; âm thanh stereo.",
+   "duration_s": 19.458,
+   "bytes": 455276,
+   "sha256": "2cdd5d4345c918807e98bbfec7df49560df4658d7dbfb72e07623625a7a8d27b",
+   "path": "ambience/ambience-breeze-through-foliage-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-breeze-through-foliage-01.mp3"
+  },
+  {
    "id": "sfx-c7d271e90f",
    "title": "Bright Air 01",
    "category": "ambience",
@@ -37,6 +49,78 @@
    "sha256": "c34f197ba61ed9aa866aeab4f3db92d14612e0f2c430316259e369fab5384af4",
    "path": "ambience/ambience-bright-air-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-bright-air-01.wav"
+  },
+  {
+   "id": "sfx-fs415151",
+   "title": "Brook Flowing 01",
+   "category": "ambience",
+   "description": "A stream of running water. It lasts 28.96 seconds. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Suối chảy róc rách. Âm kéo dài 28,96 giây. Phổ sáng; âm thanh stereo.",
+   "duration_s": 28.958,
+   "bytes": 664076,
+   "sha256": "55af0d06048fd7ca89c39966540a9ef8b3af73c80c54b5e81af6ccfec47e4454",
+   "path": "ambience/ambience-brook-flowing-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-brook-flowing-01.mp3"
+  },
+  {
+   "id": "sfx-fs447777",
+   "title": "Busy Bazaar Crowd 01",
+   "category": "ambience",
+   "description": "A busy street market in Vietnam, with voices. It lasts 23.52 seconds. The sound is in stereo.",
+   "description_vi": "Chợ Việt Nam đông người, tiếng nói chuyện. Âm kéo dài 23,52 giây. Âm thanh stereo.",
+   "duration_s": 23.52,
+   "bytes": 532364,
+   "sha256": "bb19f23bc781e99dea43c79364b3dbdd723c80abebc31059b34587d74c90c109",
+   "path": "ambience/ambience-busy-bazaar-crowd-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-busy-bazaar-crowd-01.mp3"
+  },
+  {
+   "id": "sfx-fs400660",
+   "title": "Calm Sea Lapping 01",
+   "category": "ambience",
+   "description": "Gentle sea waves rustling on the shore. It lasts 29.65 seconds, starts sharply and fades slowly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Sóng biển nhẹ lăn tăn vào bờ. Âm kéo dài 29,65 giây, khởi âm nhanh và tắt chậm. Phổ sáng; âm thanh stereo.",
+   "duration_s": 29.652,
+   "bytes": 709244,
+   "sha256": "ae1f46433f07ecf9e4449109db7d75567adc188024a42588d426574be3997c2f",
+   "path": "ambience/ambience-calm-sea-lapping-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-calm-sea-lapping-01.mp3"
+  },
+  {
+   "id": "sfx-fs348831",
+   "title": "Calm Woodland Bed 01",
+   "category": "ambience",
+   "description": "A quiet forest. It lasts 27.54 seconds and fades slowly. The stereo field is wide.",
+   "description_vi": "Rừng yên tĩnh. Âm kéo dài 27,54 giây và tắt chậm. Không gian stereo rộng.",
+   "duration_s": 27.544,
+   "bytes": 631772,
+   "sha256": "e3fa3d8a3c5ec13702eb2254b75bb507c5ab0e4d9b6773cc2c57159cc2e56de7",
+   "path": "ambience/ambience-calm-woodland-bed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-calm-woodland-bed-01.mp3"
+  },
+  {
+   "id": "sfx-fs380202",
+   "title": "Coffee House Daytime 01",
+   "category": "ambience",
+   "description": "A cafe during the day, with chatter and cups. It lasts 21.14 seconds and fades slowly. The sound is mono.",
+   "description_vi": "Quán cà phê ban ngày, tiếng trò chuyện và cốc chén. Âm kéo dài 21,14 giây và tắt chậm. Âm thanh mono.",
+   "duration_s": 21.139,
+   "bytes": 395324,
+   "sha256": "366b3b68ba223b70f95dce04bcdfbf952b09892533e9380f5a1a85498c34ca34",
+   "path": "ambience/ambience-coffee-house-daytime-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-coffee-house-daytime-01.mp3"
+  },
+  {
+   "id": "sfx-fs473723",
+   "title": "Cooking Room Bustle 01",
+   "category": "ambience",
+   "description": "A kitchen during the day. It lasts 28.9 seconds and begins softly. The stereo field is wide.",
+   "description_vi": "Gian bếp ban ngày. Âm kéo dài 28,9 giây, bắt đầu nhẹ nhàng. Không gian stereo rộng.",
+   "duration_s": 28.897,
+   "bytes": 641132,
+   "sha256": "87d92b08c82b8928ac2191b6d82d0108e3f1542b00088b5904b02285a2aabf21",
+   "path": "ambience/ambience-cooking-room-bustle-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-cooking-room-bustle-01.mp3"
   },
   {
    "id": "sfx-1adec39393",
@@ -231,6 +315,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-cycling-machine-roll-03.wav"
   },
   {
+   "id": "sfx-fs481080",
+   "title": "Dawn Park Birdsong 01",
+   "category": "ambience",
+   "description": "A park in the morning with birds. It lasts 28.47 seconds, begins softly and fades slowly. The sound is mono.",
+   "description_vi": "Công viên buổi sáng, tiếng chim. Âm kéo dài 28,47 giây, bắt đầu nhẹ nhàng và tắt chậm. Âm thanh mono.",
+   "duration_s": 28.467,
+   "bytes": 533564,
+   "sha256": "0ca91ba6ca9a07ba670fb74b57a6b030ac452c805b340e29a81b8b1d4ca99a61",
+   "path": "ambience/ambience-dawn-park-birdsong-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-dawn-park-birdsong-01.mp3"
+  },
+  {
    "id": "sfx-fs463302",
    "title": "Diner Kitchen Bustle 01",
    "category": "ambience",
@@ -253,6 +349,18 @@
    "sha256": "427770d4c8d3d168d13ebca4aba9bc1171ea9bdc1f69b16ebaaf9666d7604057",
    "path": "ambience/ambience-eerie-dread-bed-01.m4a",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-eerie-dread-bed-01.m4a"
+  },
+  {
+   "id": "sfx-fs379925",
+   "title": "Evening Insects Bed 01",
+   "category": "ambience",
+   "description": "A quiet night with crickets and a low rumble. It lasts 24.33 seconds and starts sharply. The sound is tonal; the sound is mono.",
+   "description_vi": "Đêm yên tĩnh, có dế kêu. Âm kéo dài 24,33 giây, khởi âm nhanh. Âm có cao độ rõ; âm thanh mono.",
+   "duration_s": 24.326,
+   "bytes": 466796,
+   "sha256": "3c0b74d87d4219d342c47b32609c625516a03d7292de078048c429901eabf7e3",
+   "path": "ambience/ambience-evening-insects-bed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-evening-insects-bed-01.mp3"
   },
   {
    "id": "sfx-9ca0525a91",
@@ -615,6 +723,30 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-futuristic-toning-rolling-bed-01.wav"
   },
   {
+   "id": "sfx-fs344887",
+   "title": "Gale Gusting 01",
+   "category": "ambience",
+   "description": "Strong wind blowing. It lasts 19.74 seconds, begins softly and fades slowly. The sound has low spectral brightness and a tonal character; the stereo field is narrow.",
+   "description_vi": "Gió mạnh thổi. Âm kéo dài 19,74 giây, bắt đầu nhẹ nhàng và tắt chậm. Âm có độ sáng phổ thấp và cao độ rõ; không gian stereo hẹp.",
+   "duration_s": 19.737,
+   "bytes": 453752,
+   "sha256": "ef3bbf227e0b3822971dad45d949524c8e3702dc3cf1bfec06bcf0439cfc73b1",
+   "path": "ambience/ambience-gale-gusting-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-gale-gusting-01.mp3"
+  },
+  {
+   "id": "sfx-fs167034",
+   "title": "Gentle Shower 01",
+   "category": "ambience",
+   "description": "Light rain falling. It lasts 26.32 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Mưa nhỏ rơi. Âm kéo dài 26,32 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 26.32,
+   "bytes": 470467,
+   "sha256": "f14748bbefecabed616c7a77a2d74d6feac389c0e5f5d90e6756ff8f8427cfed",
+   "path": "ambience/ambience-gentle-shower-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-gentle-shower-01.mp3"
+  },
+  {
    "id": "sfx-7eeb4506db",
    "title": "Machine Failure Roll 01",
    "category": "ambience",
@@ -711,6 +843,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-machine-failure-roll-08.wav"
   },
   {
+   "id": "sfx-fs852826",
+   "title": "Mild Surf Cycle 01",
+   "category": "ambience",
+   "description": "Gentle ocean waves that loop. It lasts 21.77 seconds. The sound is mono.",
+   "description_vi": "Sóng biển êm, lặp được. Âm kéo dài 21,77 giây. Âm thanh mono.",
+   "duration_s": 21.77,
+   "bytes": 498188,
+   "sha256": "070039e1cbc5eb7a83294919d5813301516b7f1a3f5127f3b132679386c7d080",
+   "path": "ambience/ambience-mild-surf-cycle-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-mild-surf-cycle-01.mp3"
+  },
+  {
    "id": "sfx-a96b2316e8",
    "title": "Motor Turbine Hum 01",
    "category": "ambience",
@@ -733,6 +877,66 @@
    "sha256": "6503ad9551e4ecfbbd9f6e45990423251567095353ccffa041adb33d9def1433",
    "path": "ambience/ambience-motor-turbine-hum-02.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-motor-turbine-hum-02.wav"
+  },
+  {
+   "id": "sfx-fs265046",
+   "title": "Neighborhood Green Space 01",
+   "category": "ambience",
+   "description": "A local park. It lasts 19.82 seconds and begins softly. The spectrum has low spectral brightness; the stereo field is wide.",
+   "description_vi": "Công viên khu phố. Âm kéo dài 19,82 giây, bắt đầu nhẹ nhàng. Âm có độ sáng phổ thấp; không gian stereo rộng.",
+   "duration_s": 19.815,
+   "bytes": 427820,
+   "sha256": "f8fad5ed3e1f7f3c1e4148cb99f665c3e554bf5e672d3b876afb173ca748616a",
+   "path": "ambience/ambience-neighborhood-green-space-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-neighborhood-green-space-01.mp3"
+  },
+  {
+   "id": "sfx-fs248103",
+   "title": "Nocturnal Outdoors 01",
+   "category": "ambience",
+   "description": "Outdoors at night. It lasts 19.5 seconds. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Ngoài trời ban đêm. Âm kéo dài 19,5 giây. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 19.5,
+   "bytes": 457564,
+   "sha256": "07d1922820c65420adf083b3bc5339598295997a6668ac72e8b22690cedbf5bc",
+   "path": "ambience/ambience-nocturnal-outdoors-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-nocturnal-outdoors-01.mp3"
+  },
+  {
+   "id": "sfx-fs585622",
+   "title": "Pebble Shore With Gulls 01",
+   "category": "ambience",
+   "description": "Waves on a pebble beach with seagulls. It lasts 28 seconds, begins softly and fades slowly. The stereo field is wide.",
+   "description_vi": "Sóng trên bãi sỏi, có tiếng hải âu. Âm kéo dài 28 giây, bắt đầu nhẹ nhàng và tắt chậm. Không gian stereo rộng.",
+   "duration_s": 28.0,
+   "bytes": 624119,
+   "sha256": "2cccb67d1df760ef9154223450682439b7489e17de6f57f1f4448e45868c0c09",
+   "path": "ambience/ambience-pebble-shore-with-gulls-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-pebble-shore-with-gulls-01.mp3"
+  },
+  {
+   "id": "sfx-fs404684",
+   "title": "Sea Shore Swell 01",
+   "category": "ambience",
+   "description": "Ocean waves on a shore. It lasts 29.67 seconds and starts sharply. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Sóng biển vỗ bờ. Âm kéo dài 29,67 giây, khởi âm nhanh. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 29.666,
+   "bytes": 677915,
+   "sha256": "bc6413e96051230d5e7ea5f63cc05734b91cae2ff549cf7fcd2223ff4eba51f0",
+   "path": "ambience/ambience-sea-shore-swell-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-sea-shore-swell-01.mp3"
+  },
+  {
+   "id": "sfx-fs331685",
+   "title": "Seabirds Calling 01",
+   "category": "ambience",
+   "description": "Seagulls calling. It lasts 27.95 seconds and begins softly. The sound is tonal; the stereo field is wide.",
+   "description_vi": "Hải âu kêu. Âm kéo dài 27,95 giây, bắt đầu nhẹ nhàng. Âm có cao độ rõ; không gian stereo rộng.",
+   "duration_s": 27.951,
+   "bytes": 634320,
+   "sha256": "53f492badd7a2746d37ef0cb2a219dbf0a16fa74c1b8e73f855b5ec0ef9e6bac",
+   "path": "ambience/ambience-seabirds-calling-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-seabirds-calling-01.mp3"
   },
   {
    "id": "sfx-f732efa18a",
@@ -867,6 +1071,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-shadowy-sibilant-rolling-bed-01.wav"
   },
   {
+   "id": "sfx-fs243774",
+   "title": "Shower On Glass Pane 01",
+   "category": "ambience",
+   "description": "Rain against a window, heard from inside. It lasts 20.02 seconds, begins softly and fades slowly. The sound is tonal; the sound is in stereo.",
+   "description_vi": "Mưa tạt vào cửa kính, nghe từ trong nhà. Âm kéo dài 20,02 giây, bắt đầu nhẹ nhàng và tắt chậm. Âm có cao độ rõ; âm thanh stereo.",
+   "duration_s": 20.024,
+   "bytes": 455836,
+   "sha256": "d6b698271f719af9dab524e27ad994fffd406508c6701eb64075ea623fcfe5d9",
+   "path": "ambience/ambience-shower-on-glass-pane-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-shower-on-glass-pane-01.mp3"
+  },
+  {
    "id": "sfx-1531ae25df",
    "title": "Sibilant Rolling Bed 01",
    "category": "ambience",
@@ -877,6 +1093,18 @@
    "sha256": "702a3cfa327a304c86954926c498ebcac75175e8d349855838872037157a4345",
    "path": "ambience/ambience-sibilant-rolling-bed-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-sibilant-rolling-bed-01.wav"
+  },
+  {
+   "id": "sfx-fs524629",
+   "title": "Sidewalk Coffee Terrace 01",
+   "category": "ambience",
+   "description": "A small outdoor cafe on a street. It lasts 24.14 seconds and starts sharply. The sound is in stereo.",
+   "description_vi": "Quán cà phê nhỏ ngoài phố. Âm kéo dài 24,14 giây, khởi âm nhanh. Âm thanh stereo.",
+   "duration_s": 24.138,
+   "bytes": 556652,
+   "sha256": "b0b6686097fc0ee3fb44209af668c971cf86d1360f4c05196d6f8c20c0805940",
+   "path": "ambience/ambience-sidewalk-coffee-terrace-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-sidewalk-coffee-terrace-01.mp3"
   },
   {
    "id": "sfx-b8a87e8098",
@@ -963,6 +1191,30 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-static-hum-01.mp3"
   },
   {
+   "id": "sfx-fs56306",
+   "title": "Steady Downpour 01",
+   "category": "ambience",
+   "description": "Rain falling steadily. It lasts 25.76 seconds, starts sharply and fades slowly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Mưa rơi đều. Âm kéo dài 25,76 giây, khởi âm nhanh và tắt chậm. Phổ sáng; âm thanh stereo.",
+   "duration_s": 25.762,
+   "bytes": 587586,
+   "sha256": "7dcaf50880240b763b30cec0d3cea8bc18232edafcfcc7cbf81175c75e522cba",
+   "path": "ambience/ambience-steady-downpour-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-steady-downpour-01.mp3"
+  },
+  {
+   "id": "sfx-fs376799",
+   "title": "Surf Breaking On Cliffs 01",
+   "category": "ambience",
+   "description": "Waves crashing into rocks. It lasts 23.59 seconds and begins softly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Sóng đập vào ghềnh đá. Âm kéo dài 23,59 giây, bắt đầu nhẹ nhàng. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 23.588,
+   "bytes": 547628,
+   "sha256": "00b8551729e0dce43c6d20f0a76787ea2410e1c7fea00582c902c62e0a685750",
+   "path": "ambience/ambience-surf-breaking-on-cliffs-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-surf-breaking-on-cliffs-01.mp3"
+  },
+  {
    "id": "sfx-5a8fdf6596",
    "title": "Tense Air 01",
    "category": "ambience",
@@ -973,6 +1225,54 @@
    "sha256": "e16269cd99f5130c62783dd5f15306926decd1d59e7423e6a5e8ace16ed81ae4",
    "path": "ambience/ambience-tense-air-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-tense-air-01.wav"
+  },
+  {
+   "id": "sfx-fs468242",
+   "title": "Tropical Cascade 01",
+   "category": "ambience",
+   "description": "A waterfall in a jungle. It lasts 25 seconds and starts sharply. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Thác nước trong rừng nhiệt đới. Âm kéo dài 25 giây, khởi âm nhanh. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 25.0,
+   "bytes": 570956,
+   "sha256": "d7d91b145cc23c57fa31a7996f7552c3954e460be6a802232df02c2c7f20aadc",
+   "path": "ambience/ambience-tropical-cascade-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-tropical-cascade-01.mp3"
+  },
+  {
+   "id": "sfx-fs325506",
+   "title": "Urban Hum Bed 01",
+   "category": "ambience",
+   "description": "City ambience with traffic and distant activity. It lasts 22.36 seconds. The sound is in stereo.",
+   "description_vi": "Không khí thành phố, xe cộ xa xa. Âm kéo dài 22,36 giây. Âm thanh stereo.",
+   "duration_s": 22.361,
+   "bytes": 500772,
+   "sha256": "66a2d201e663940e2aa342494420373c358744acdb644e7c2437800d816f699d",
+   "path": "ambience/ambience-urban-hum-bed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-urban-hum-bed-01.mp3"
+  },
+  {
+   "id": "sfx-fs211512",
+   "title": "Vehicles Going Past 01",
+   "category": "ambience",
+   "description": "Cars passing by. It lasts 28.48 seconds and begins softly. The sound is mono.",
+   "description_vi": "Xe ô tô chạy qua. Âm kéo dài 28,48 giây, bắt đầu nhẹ nhàng. Âm thanh mono.",
+   "duration_s": 28.481,
+   "bytes": 622284,
+   "sha256": "b6cc45fb5f65ee1684568851f1d35033fec0f3fdf4535c9c711f683a9edbcfb1",
+   "path": "ambience/ambience-vehicles-going-past-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-vehicles-going-past-01.mp3"
+  },
+  {
+   "id": "sfx-fs427085",
+   "title": "Woodland Songbirds 01",
+   "category": "ambience",
+   "description": "Birds singing in a forest. It lasts 24 seconds and begins softly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Chim hót trong rừng. Âm kéo dài 24 giây, bắt đầu nhẹ nhàng. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 24.0,
+   "bytes": 556013,
+   "sha256": "d7abf05a4c992cb468c00f4e654e3337aee5d128c58e85a155f96c95853c7eea",
+   "path": "ambience/ambience-woodland-songbirds-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ambience/ambience-woodland-songbirds-01.mp3"
   },
   {
    "id": "sfx-mi30566",
@@ -4455,6 +4755,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cartoon-clatter-03.wav"
   },
   {
+   "id": "sfx-fs418523",
+   "title": "Ceramic Dish Placed 01",
+   "category": "foley",
+   "description": "A ceramic plate placed down. It lasts 2.64 seconds, starts sharply and fades quickly. The sound is in stereo.",
+   "description_vi": "Đặt đĩa sứ xuống. Âm kéo dài 2,64 giây, khởi âm nhanh và tắt nhanh. Âm thanh stereo.",
+   "duration_s": 2.64,
+   "bytes": 26300,
+   "sha256": "7fc6166e5227f09e0efdadaa84c9d91fe56f03e6811d39c659f0dc199ea478f7",
+   "path": "foley/foley-ceramic-dish-placed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-ceramic-dish-placed-01.mp3"
+  },
+  {
    "id": "sfx-13978dd090",
    "title": "Change Fall Chink 01",
    "category": "foley",
@@ -4683,6 +4995,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-crisp-brief-sheet-scrunch-07.wav"
   },
   {
+   "id": "sfx-fs181260",
+   "title": "Crockery Set On Table 01",
+   "category": "foley",
+   "description": "A plate put down on a table, short. It lasts 0.77 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đặt đĩa xuống bàn, gọn. Âm kéo dài 0,77 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 0.766,
+   "bytes": 16323,
+   "sha256": "ccb594913fcdaa18080c92fee66009446ddb36fe464c83b26712b9db376ffe06",
+   "path": "foley/foley-crockery-set-on-table-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-crockery-set-on-table-01.mp3"
+  },
+  {
    "id": "sfx-mi382711",
    "title": "Crunchy Chomp 01",
    "category": "foley",
@@ -4885,6 +5209,42 @@
    "sha256": "f473da6e4c0f7c74e10d24dee2748ab7b130a6254af1e57df78dd90fc2635a89",
    "path": "foley/foley-data-clatter-07.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-data-clatter-07.wav"
+  },
+  {
+   "id": "sfx-fs275585",
+   "title": "Dish And Utensils Set 01",
+   "category": "foley",
+   "description": "A plate with cutlery set down. It lasts 1.67 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Đặt đĩa kèm dao nĩa xuống. Âm kéo dài 1,67 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 1.669,
+   "bytes": 41688,
+   "sha256": "1e480c8879379b74d26f064e0237b7a664e6ab025e9e3b1ba2b6a5037b3d50d5",
+   "path": "foley/foley-dish-and-utensils-set-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-dish-and-utensils-set-01.mp3"
+  },
+  {
+   "id": "sfx-fs257939",
+   "title": "Dish Placed On Table 01",
+   "category": "foley",
+   "description": "A plate set down on a table. It lasts 1.58 seconds, starts sharply and fades quickly. The spectrum has low spectral brightness; the sound is in stereo.",
+   "description_vi": "Đặt đĩa xuống bàn. Âm kéo dài 1,58 giây, khởi âm nhanh và tắt nhanh. Âm có độ sáng phổ thấp; âm thanh stereo.",
+   "duration_s": 1.583,
+   "bytes": 39020,
+   "sha256": "b5c8960f3c0d42758e0eeef797ae99fc7ecb1dd966e40ea0c15cf0f841a000bb",
+   "path": "foley/foley-dish-placed-on-table-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-dish-placed-on-table-01.mp3"
+  },
+  {
+   "id": "sfx-fs127200",
+   "title": "Dishware Handling 01",
+   "category": "foley",
+   "description": "Crockery handled and clinking together. It lasts 4.28 seconds. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Bát đĩa chạm nhau khi bày hoặc dọn. Âm kéo dài 4,28 giây. Phổ sáng; âm thanh stereo.",
+   "duration_s": 4.28,
+   "bytes": 103998,
+   "sha256": "162d65fc2323056086f042add3cafd7066f5fb8b26893abc891cae41884c8391",
+   "path": "foley/foley-dishware-handling-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-dishware-handling-01.mp3"
   },
   {
    "id": "sfx-fs268500",
@@ -5907,6 +6267,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-muffled-ticks-01.mp3"
   },
   {
+   "id": "sfx-fs272022",
+   "title": "Mug Placed 01",
+   "category": "foley",
+   "description": "A cup set down, short. It lasts 0.71 seconds and fades quickly. The sound is in stereo.",
+   "description_vi": "Đặt cốc xuống, gọn. Âm kéo dài 0,71 giây và tắt nhanh. Âm thanh stereo.",
+   "duration_s": 0.709,
+   "bytes": 20156,
+   "sha256": "3da0d041ab62fd55d174bf017fc3019836380ebb0f40ddf8221fab148dd740b4",
+   "path": "foley/foley-mug-placed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mug-placed-01.mp3"
+  },
+  {
    "id": "sfx-mi115050",
    "title": "Munch Chomp 01",
    "category": "foley",
@@ -6675,6 +7047,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-seared-cuts-pan-01.mp3"
   },
   {
+   "id": "sfx-fs377051",
+   "title": "Serving Board Lowered 01",
+   "category": "foley",
+   "description": "A tray placed on a table. It lasts 2.9 seconds and starts sharply. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Đặt khay xuống bàn. Âm kéo dài 2,9 giây, khởi âm nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 2.9,
+   "bytes": 37964,
+   "sha256": "8b89eae2cd9ad23da35e26b6ad693d9039b89ef4731e43fb8b77b382b77d0a81",
+   "path": "foley/foley-serving-board-lowered-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-serving-board-lowered-01.mp3"
+  },
+  {
    "id": "sfx-mi236652",
    "title": "Sheet Crumpling 01",
    "category": "foley",
@@ -6769,6 +7153,30 @@
    "sha256": "1e7aa89d24b59bda4b147ba1304068fdb38d7d0088805b923185390f27facca4",
    "path": "foley/foley-shuffling-sheet-leaf-flip-05.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-shuffling-sheet-leaf-flip-05.wav"
+  },
+  {
+   "id": "sfx-fs450783",
+   "title": "Silverware Laid On Dish 01",
+   "category": "foley",
+   "description": "Cutlery laid down on a plate, close and detailed. It lasts 8.59 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đặt dao, nĩa, thìa xuống đĩa, nghe rõ từng tiếng. Âm kéo dài 8,59 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 8.592,
+   "bytes": 162956,
+   "sha256": "91eca78568153fe57493bf393a94ba3816a70589582fa73284c27d96a035e649",
+   "path": "foley/foley-silverware-laid-on-dish-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-silverware-laid-on-dish-01.mp3"
+  },
+  {
+   "id": "sfx-fs288931",
+   "title": "Silverware Set Aside 01",
+   "category": "foley",
+   "description": "Cutlery put down on a table. It lasts 11.38 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đặt dao nĩa xuống bàn. Âm kéo dài 11,38 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 11.384,
+   "bytes": 270855,
+   "sha256": "93e63b77a1bef3ab5aa7b618650febd3f6716ad10ff8eb0c89398c677bfb40d8",
+   "path": "foley/foley-silverware-set-aside-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-silverware-set-aside-01.mp3"
   },
   {
    "id": "sfx-fs709951",
@@ -7395,6 +7803,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-table-strand-sipping-01.mp3"
   },
   {
+   "id": "sfx-fs33986",
+   "title": "Tableware Clatter 01",
+   "category": "foley",
+   "description": "Dishes clattering together. It lasts 11.04 seconds. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Bát đĩa va vào nhau lách cách. Âm kéo dài 11,04 giây. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 11.045,
+   "bytes": 263143,
+   "sha256": "9ad3e00ecd599e75b566e03960a4e64d92c70504daf78a75f34e6a9233b7cb43",
+   "path": "foley/foley-tableware-clatter-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tableware-clatter-01.mp3"
+  },
+  {
    "id": "sfx-mi256876",
    "title": "Tactical Footsteps 01",
    "category": "foley",
@@ -7417,6 +7837,42 @@
    "sha256": "110688d69caea50bfe892cbac58bb071adaa56dd908b04117df3ee87699268fd",
    "path": "foley/foley-tape-eject-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tape-eject-01.mp3"
+  },
+  {
+   "id": "sfx-fs460241",
+   "title": "Teacup Placed 01",
+   "category": "foley",
+   "description": "A teacup set down. It lasts 3.23 seconds, starts sharply and fades quickly. The sound is mono.",
+   "description_vi": "Đặt tách trà xuống. Âm kéo dài 3,23 giây, khởi âm nhanh và tắt nhanh. Âm thanh mono.",
+   "duration_s": 3.228,
+   "bytes": 75030,
+   "sha256": "c381a86d90457cf3143b1374afaf2bbe0d4e8ec8cea8fd646444b0786b9a7fe9",
+   "path": "foley/foley-teacup-placed-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-teacup-placed-01.mp3"
+  },
+  {
+   "id": "sfx-fs487211",
+   "title": "Teaspoon Lands In Dish 01",
+   "category": "foley",
+   "description": "A spoon dropped into a bowl. It lasts 2.5 seconds and begins softly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Thả thìa vào bát. Âm kéo dài 2,5 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
+   "duration_s": 2.496,
+   "bytes": 48860,
+   "sha256": "16435d3ba1cb72f7caa60bfca20a3abd0dbc7b49cbd00a76fbd13706c0215305",
+   "path": "foley/foley-teaspoon-lands-in-dish-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-teaspoon-lands-in-dish-01.mp3"
+  },
+  {
+   "id": "sfx-fs235573",
+   "title": "Teaspoon Rings In Dish 01",
+   "category": "foley",
+   "description": "A spoon clanking in a ceramic bowl. It lasts 10.21 seconds, starts sharply and fades quickly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Thìa khua trong bát sứ. Âm kéo dài 10,21 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 10.208,
+   "bytes": 250724,
+   "sha256": "693fc6c4dd230c205cd9e0fe46f4d6cf60c928b607059b90bf6f97c6385a19f5",
+   "path": "foley/foley-teaspoon-rings-in-dish-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-teaspoon-rings-in-dish-01.mp3"
   },
   {
    "id": "sfx-mi287074",
@@ -7597,6 +8053,18 @@
    "sha256": "0110a889e012842b78f6f9ddc700e4a4a5f44bcf967ce63b04843387084e5131",
    "path": "foley/foley-triple-rap-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-triple-rap-01.wav"
+  },
+  {
+   "id": "sfx-fs466791",
+   "title": "Tumbler Placed On Surface 01",
+   "category": "foley",
+   "description": "A glass set down on a table. It lasts 3.09 seconds and starts sharply. The sound is mono.",
+   "description_vi": "Đặt ly xuống bàn. Âm kéo dài 3,09 giây, khởi âm nhanh. Âm thanh mono.",
+   "duration_s": 3.086,
+   "bytes": 59949,
+   "sha256": "eaad5ead9f4080f9433c163742324774b970e80cc2eb2c8f2cc9c9089aeab393",
+   "path": "foley/foley-tumbler-placed-on-surface-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-tumbler-placed-on-surface-01.mp3"
   },
   {
    "id": "sfx-mi551103",
