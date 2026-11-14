@@ -1,6 +1,6 @@
 {
- "count": 2341,
- "bytes": 790416799,
+ "count": 2362,
+ "bytes": 794398324,
  "sounds": [
   {
    "id": "sfx-mi458453",
@@ -3207,6 +3207,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-jiggle-wiggle-01.mp3"
   },
   {
+   "id": "sfx-fs713649",
+   "title": "Joke Drum Sting 01",
+   "category": "cartoon",
+   "description": "A ba-dum-tss rimshot after a joke. It lasts 3 seconds. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Tiếng trống ba-dum-tss sau câu đùa. Âm kéo dài 3 giây. Phổ sáng; âm thanh stereo.",
+   "duration_s": 3.0,
+   "bytes": 71450,
+   "sha256": "cf6ebdc79e57f5aada2fea6c09eec05fa9fd37eef07cedd844fb3b83c4c08185",
+   "path": "cartoon/cartoon-joke-drum-sting-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-joke-drum-sting-01.mp3"
+  },
+  {
    "id": "sfx-bd38910db3",
    "title": "Lip Exhale Brief 01",
    "category": "cartoon",
@@ -3445,6 +3457,18 @@
    "sha256": "22dbbd18945f0e837a2f3562bbaedb5404de8d4a48b9d64f3adabe64e809df02",
    "path": "cartoon/cartoon-plop-sound-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-plop-sound-01.mp3"
+  },
+  {
+   "id": "sfx-fs431812",
+   "title": "Punchline Kit Sting 01",
+   "category": "cartoon",
+   "description": "A loud ba-dum-tss drum sting for a punchline. It lasts 5.94 seconds and fades quickly. The sound is mono.",
+   "description_vi": "Tiếng trống ba-dum-tss mạnh cho câu chốt hài. Âm kéo dài 5,94 giây và tắt nhanh. Âm thanh mono.",
+   "duration_s": 5.938,
+   "bytes": 138533,
+   "sha256": "f51dfb41fc059e98f59538e541f632c8f16560445238f813cfe497c00ccf7c47",
+   "path": "cartoon/cartoon-punchline-kit-sting-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-punchline-kit-sting-01.mp3"
   },
   {
    "id": "sfx-86eeb443d2",
@@ -3901,6 +3925,18 @@
    "sha256": "b523a10447facc1342a4ac32a90e9bc215cf3c8bd85c7772d6f4591b3fff15e5",
    "path": "cartoon/cartoon-smack-plop-05.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-smack-plop-05.wav"
+  },
+  {
+   "id": "sfx-fs132418",
+   "title": "Snare Rim Split 01",
+   "category": "cartoon",
+   "description": "A single snare rimshot. It lasts 1.07 seconds, starts sharply and fades quickly. The stereo field is wide.",
+   "description_vi": "Một tiếng gõ vành trống snare (rimshot). Âm kéo dài 1,07 giây, khởi âm nhanh và tắt nhanh. Không gian stereo rộng.",
+   "duration_s": 1.073,
+   "bytes": 27020,
+   "sha256": "78a83d0263e284159cf5efde55ff5998e59799e9e422eb6f28af00c17b3707eb",
+   "path": "cartoon/cartoon-snare-rim-split-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-snare-rim-split-01.mp3"
   },
   {
    "id": "sfx-mi272072",
@@ -4491,6 +4527,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-aperture-snap-01.mp3"
   },
   {
+   "id": "sfx-fs362624",
+   "title": "Approval Seal Rap 01",
+   "category": "foley",
+   "description": "A rubber stamp coming down, short and firm. It lasts 0.58 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Đóng dấu cao su, gọn và chắc. Âm kéo dài 0,58 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 0.582,
+   "bytes": 17420,
+   "sha256": "2339c006c32dc0e62f77c2693ee0abd2168dcc22e28951f886cc4fd8aaf4a9c2",
+   "path": "foley/foley-approval-seal-rap-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-approval-seal-rap-01.mp3"
+  },
+  {
    "id": "sfx-e037c5d0ce",
    "title": "Arcade Eating 01",
    "category": "foley",
@@ -4513,6 +4561,42 @@
    "sha256": "4a03ed4e4301f3dbb1ab2ed9abcfc54868bf9ac9c2f3d5a1bb06edb865d3640c",
    "path": "foley/foley-armor-equip-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-armor-equip-01.mp3"
+  },
+  {
+   "id": "sfx-fs333948",
+   "title": "Barista Brew Motor 01",
+   "category": "foley",
+   "description": "An espresso machine pulling a shot, with pump hum and hiss. It lasts 24.58 seconds and fades slowly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Máy pha espresso đang chiết cà phê, tiếng bơm rền và xì hơi. Âm kéo dài 24,58 giây và tắt chậm. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 24.578,
+   "bytes": 549249,
+   "sha256": "65203a6dd84f44974b4000b55f2a91afb39385c3ebdf209b65b5ed9bf10d7460",
+   "path": "foley/foley-barista-brew-motor-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-barista-brew-motor-01.mp3"
+  },
+  {
+   "id": "sfx-fs530197",
+   "title": "Bean Mill Whirr 01",
+   "category": "foley",
+   "description": "An electric coffee grinder grinding beans. It lasts 13.58 seconds and fades slowly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Máy xay cà phê điện đang xay hạt. Âm kéo dài 13,58 giây và tắt chậm. Phổ sáng; âm thanh stereo.",
+   "duration_s": 13.58,
+   "bytes": 320396,
+   "sha256": "aaf70c6164733de4ecda557172a05974d7445a1563ea7c96a78391f578e6f23f",
+   "path": "foley/foley-bean-mill-whirr-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-bean-mill-whirr-01.mp3"
+  },
+  {
+   "id": "sfx-fs190967",
+   "title": "Beans Into Hopper 01",
+   "category": "foley",
+   "description": "Coffee beans poured into a grinder. It lasts 2.83 seconds and begins softly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đổ hạt cà phê vào máy xay. Âm kéo dài 2,83 giây, bắt đầu nhẹ nhàng. Phổ sáng; âm thanh mono.",
+   "duration_s": 2.833,
+   "bytes": 56828,
+   "sha256": "295cfba9eab924b9487666a53f0973ef619e67025f9a6f84e04a576824a9d92f",
+   "path": "foley/foley-beans-into-hopper-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-beans-into-hopper-01.mp3"
   },
   {
    "id": "sfx-a4a1339ad0",
@@ -4647,6 +4731,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-bowl-smash-01.mp3"
   },
   {
+   "id": "sfx-fs658711",
+   "title": "Brew Poured Into Cup 01",
+   "category": "foley",
+   "description": "Coffee poured into a cup. It lasts 6.87 seconds, starts sharply and fades slowly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Rót cà phê vào cốc. Âm kéo dài 6,87 giây, khởi âm nhanh và tắt chậm. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 6.867,
+   "bytes": 208309,
+   "sha256": "4b0f58e65cda51a214c78af7fd38af72b13aad40ab9d19b3a89e17c88fc97dc8",
+   "path": "foley/foley-brew-poured-into-cup-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-brew-poured-into-cup-01.mp3"
+  },
+  {
    "id": "sfx-mi236174",
    "title": "Bricks Breaking 01",
    "category": "foley",
@@ -4705,6 +4801,30 @@
    "sha256": "934ba754c8f5e418dca6061add2f767f71f1e25aa9a38b07477dfe5e7aac7822",
    "path": "foley/foley-bubbly-stream-fill-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-bubbly-stream-fill-01.mp3"
+  },
+  {
+   "id": "sfx-fs494388",
+   "title": "Burr Mill Spin 01",
+   "category": "foley",
+   "description": "A coffee grinder recorded in stereo. It lasts 10.82 seconds and fades slowly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Máy xay cà phê, thu stereo. Âm kéo dài 10,82 giây và tắt chậm. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 10.821,
+   "bytes": 257468,
+   "sha256": "ea09cdc94d764e250b380136a9c13bcb543a5b04d1467212f280cc23f389c228",
+   "path": "foley/foley-burr-mill-spin-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-burr-mill-spin-01.mp3"
+  },
+  {
+   "id": "sfx-fs785884",
+   "title": "Cafe Counter Brewer 01",
+   "category": "foley",
+   "description": "An espresso machine brewing at a cafe counter. It lasts 20.93 seconds and fades slowly. The sound is tonal; the sound is in stereo.",
+   "description_vi": "Máy pha espresso đang pha ở quầy quán cà phê. Âm kéo dài 20,93 giây và tắt chậm. Âm có cao độ rõ; âm thanh stereo.",
+   "duration_s": 20.931,
+   "bytes": 493292,
+   "sha256": "2238a986c8579d4db9af87e2784c3880daaf82dba4c519ba55900b12304ca8a4",
+   "path": "foley/foley-cafe-counter-brewer-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cafe-counter-brewer-01.mp3"
   },
   {
    "id": "sfx-fs563213",
@@ -5281,6 +5401,18 @@
    "sha256": "7f4e82707c492d78d7a5d9609b6f4f1b04a462c60189ec15bfae99f563425ce0",
    "path": "foley/foley-drama-splash-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-drama-splash-01.mp3"
+  },
+  {
+   "id": "sfx-fs56563",
+   "title": "Electric Bean Crusher 01",
+   "category": "foley",
+   "description": "A coffee grinder running, short. It lasts 8.22 seconds, starts sharply and fades slowly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Máy xay cà phê chạy, ngắn. Âm kéo dài 8,22 giây, khởi âm nhanh và tắt chậm. Phổ sáng; âm thanh mono.",
+   "duration_s": 8.225,
+   "bytes": 174872,
+   "sha256": "f3b58001a72fed33dc26bea7499f492dd6ba9d663762a7c317093567040337c0",
+   "path": "foley/foley-electric-bean-crusher-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-electric-bean-crusher-01.mp3"
   },
   {
    "id": "sfx-97a8f10b3a",
@@ -5883,6 +6015,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-handwriting-sheet-01.mp3"
   },
   {
+   "id": "sfx-fs432775",
+   "title": "Hot Brew Pour 01",
+   "category": "foley",
+   "description": "Coffee poured from a pot, short. It lasts 5.05 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Rót cà phê từ bình, ngắn. Âm kéo dài 5,05 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 5.052,
+   "bytes": 128278,
+   "sha256": "cd3d65546dedf19d9cada294773331e7125b54783906669fb4a8515de9295cc2",
+   "path": "foley/foley-hot-brew-pour-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-hot-brew-pour-01.mp3"
+  },
+  {
    "id": "sfx-fs337086",
    "title": "Ink Handwriting 01",
    "category": "foley",
@@ -5893,6 +6037,18 @@
    "sha256": "4948c2eb393cccffb471594c7b1a4cbe61cab820228175a75638ba9a3ba5d37a",
    "path": "foley/foley-ink-handwriting-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-ink-handwriting-01.mp3"
+  },
+  {
+   "id": "sfx-fs470710",
+   "title": "Ink Seal Press 01",
+   "category": "foley",
+   "description": "A rubber stamp pressed down on a desk. It lasts 1.59 seconds. The sound is mono.",
+   "description_vi": "Đóng con dấu cao su xuống bàn. Âm kéo dài 1,59 giây. Âm thanh mono.",
+   "duration_s": 1.59,
+   "bytes": 38707,
+   "sha256": "e6d91546af291712ecb4fc667606482e4dc180ec9f4435ff4dd714b4af6c3343",
+   "path": "foley/foley-ink-seal-press-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-ink-seal-press-01.mp3"
   },
   {
    "id": "sfx-3e4b2f475f",
@@ -6147,6 +6303,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-metal-wrench-01.mp3"
   },
   {
+   "id": "sfx-fs503557",
+   "title": "Milk Froth Sibilance 01",
+   "category": "foley",
+   "description": "A steam wand frothing milk for a cappuccino. It lasts 20.25 seconds, starts sharply and fades slowly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Vòi hơi đánh sữa cho cappuccino. Âm kéo dài 20,25 giây, khởi âm nhanh và tắt chậm. Phổ sáng; âm thanh mono.",
+   "duration_s": 20.25,
+   "bytes": 390860,
+   "sha256": "6b470710aabcd465256d43ecc9e8f7a2b8666542f8f3d169e5048439c83d63ba",
+   "path": "foley/foley-milk-froth-sibilance-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-milk-froth-sibilance-01.mp3"
+  },
+  {
    "id": "sfx-50b35fdf47",
    "title": "Mist Sibilance 01",
    "category": "foley",
@@ -6301,6 +6469,18 @@
    "sha256": "598700f3dfac1d32ee41b554d775b373a49b9626bc5002736bbfeddae65ff491",
    "path": "foley/foley-nervous-clatter-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-nervous-clatter-01.mp3"
+  },
+  {
+   "id": "sfx-fs538894",
+   "title": "Nozzle Vapor Burst 01",
+   "category": "foley",
+   "description": "A dry blast of steam clearing an espresso machine's steam wand. It lasts 21.64 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Xả hơi khô làm sạch vòi đánh sữa của máy espresso. Âm kéo dài 21,64 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 21.644,
+   "bytes": 393788,
+   "sha256": "17c3b97f4d3ec09a01094c4c048d050ef11e4218f821d7d2571484bc57c62e3e",
+   "path": "foley/foley-nozzle-vapor-burst-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-nozzle-vapor-burst-01.mp3"
   },
   {
    "id": "sfx-mi161794",
@@ -10023,6 +10203,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-brake-and-crash-01.mp3"
   },
   {
+   "id": "sfx-fs647712",
+   "title": "Brass Swell Burst 01",
+   "category": "impact",
+   "description": "A braam: a huge low brass blast, the trailer hit. It lasts 10 seconds and fades slowly. The sound has low spectral brightness and a tonal character; the sound is in stereo.",
+   "description_vi": "Tiếng braam: kèn đồng trầm nổ lớn, kiểu trailer phim. Âm kéo dài 10 giây và tắt chậm. Âm có độ sáng phổ thấp và cao độ rõ; âm thanh stereo.",
+   "duration_s": 10.0,
+   "bytes": 222044,
+   "sha256": "f4671177adcf3b4eca16d405aa44d06f7611fdf6f00084ffe97d4df0c7aafb7a",
+   "path": "impact/impact-brass-swell-burst-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-brass-swell-burst-01.mp3"
+  },
+  {
    "id": "sfx-a5533dd54c",
    "title": "Build And Crushed Sub Fall 01",
    "category": "impact",
@@ -10153,6 +10345,18 @@
    "sha256": "f45cd0849a1bf6881e63fde85a28d98e19b13dc497602c6da63401bda3958693",
    "path": "impact/impact-deep-thud-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-deep-thud-01.mp3"
+  },
+  {
+   "id": "sfx-fs856173",
+   "title": "Doom Horn Impact 01",
+   "category": "impact",
+   "description": "A dark brass braam impact for a dramatic reveal. It lasts 4 seconds and fades slowly. The sound has low spectral brightness and a tonal character; the stereo field is wide.",
+   "description_vi": "Cú braam kèn đồng u tối cho khoảnh khắc lộ diện kịch tính. Âm kéo dài 4 giây và tắt chậm. Âm có độ sáng phổ thấp và cao độ rõ; không gian stereo rộng.",
+   "duration_s": 4.0,
+   "bytes": 93554,
+   "sha256": "c3af2aa96c55b3dc46ac75d0c2694b19d4677ad153d7c492e8169fa3dd06cae5",
+   "path": "impact/impact-doom-horn-impact-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-doom-horn-impact-01.mp3"
   },
   {
    "id": "sfx-fs222517",
@@ -11017,6 +11221,18 @@
    "sha256": "1be919d981714c323e69d2b65a3aeb04f7ef7fba0d859e1aeb5d60da54203b3f",
    "path": "impact/impact-light-film-thump-17.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-light-film-thump-17.wav"
+  },
+  {
+   "id": "sfx-fs431316",
+   "title": "Low Brass Strike 01",
+   "category": "impact",
+   "description": "A braam hit with a long low tail. It lasts 7.75 seconds and fades slowly. The sound is tonal; the stereo field is wide.",
+   "description_vi": "Cú braam trầm, đuôi dài. Âm kéo dài 7,75 giây và tắt chậm. Âm có cao độ rõ; không gian stereo rộng.",
+   "duration_s": 7.75,
+   "bytes": 178673,
+   "sha256": "fbc3b8a251030a194bc648e09f799f81256acd5dae00825a51bb2899957c53be",
+   "path": "impact/impact-low-brass-strike-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/impact/impact-low-brass-strike-01.mp3"
   },
   {
    "id": "sfx-a4dd6fd850",
@@ -18495,6 +18711,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-menu-move-01.mp3"
   },
   {
+   "id": "sfx-fs159698",
+   "title": "Menu Step Tick 01",
+   "category": "ui",
+   "description": "A tiny tick for scrolling through a menu or list. It lasts 0.25 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Tiếng tích nhỏ khi cuộn qua menu hoặc danh sách. Âm kéo dài 0,25 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 0.25,
+   "bytes": 8394,
+   "sha256": "89e09c753ad43bb43a0c310d02d19df1bc0d4ee00f0fc1568ae15fd0b6afbffe",
+   "path": "ui/ui-menu-step-tick-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-menu-step-tick-01.mp3"
+  },
+  {
    "id": "sfx-fs146721",
    "title": "Menu Tick 01",
    "category": "ui",
@@ -18589,6 +18817,18 @@
    "sha256": "684f567aad3420633c61720e7c316bfbd4c690a6907073ea2201aa5217f284ed",
    "path": "ui/ui-news-title-03.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-news-title-03.mp3"
+  },
+  {
+   "id": "sfx-fs152965",
+   "title": "Notched Wheel Spin 01",
+   "category": "ui",
+   "description": "A scroll wheel turned, clicking. It lasts 3.81 seconds. The sound is in stereo.",
+   "description_vi": "Xoay con lăn chuột, tiếng lách cách. Âm kéo dài 3,81 giây. Âm thanh stereo.",
+   "duration_s": 3.81,
+   "bytes": 107034,
+   "sha256": "a4d5332814c81879d8035e0f71f4779ba2b237a99d66d65cd2ef81ea05c0a7e6",
+   "path": "ui/ui-notched-wheel-spin-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-notched-wheel-spin-01.mp3"
   },
   {
    "id": "sfx-mi374262",
@@ -19873,6 +20113,18 @@
    "sha256": "3f7338768f307f284d4be28044612bce1b470687d8788febbc8457b68443733a",
    "path": "ui/ui-title-appear-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-title-appear-01.mp3"
+  },
+  {
+   "id": "sfx-fs256459",
+   "title": "Wheel Notch Ticks 01",
+   "category": "ui",
+   "description": "A mouse wheel scrolling, ticking notch by notch. It lasts 3.4 seconds. The stereo field is wide.",
+   "description_vi": "Lăn chuột cuộn trang, tách tách từng nấc. Âm kéo dài 3,4 giây. Không gian stereo rộng.",
+   "duration_s": 3.4,
+   "bytes": 105356,
+   "sha256": "773728e62b51df6f5d9599b3be2e70c17f8fdd21d60aac48bc93141ed7080706",
+   "path": "ui/ui-wheel-notch-ticks-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/ui/ui-wheel-notch-ticks-01.mp3"
   },
   {
    "id": "sfx-mi106198",

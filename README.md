@@ -27,4 +27,4 @@ Check the SHA-256 against `index.json` or the EditAtlas record.
 If you hold the rights to a sound here and want it taken down, [open an issue](https://github.com/EditAtlas/sfx/issues/new)
 with its path or id. We remove it from this repo and from EditAtlas within 7 days.
 
-2,341 sounds, 790 MB.
+2,362 sounds, 794 MB.
