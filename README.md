@@ -22,4 +22,9 @@ cd sfx && git sparse-checkout set --no-cone /whoosh/<file> /impact/<file>
 
 Check the SHA-256 against `index.json` or the EditAtlas record.
 
+## Remove a sound
+
+If you hold the rights to a sound here and want it taken down, [open an issue](https://github.com/EditAtlas/sfx/issues/new)
+with its path or id. We remove it from this repo and from EditAtlas within 7 days.
+
 2,341 sounds, 790 MB.
