@@ -1,6 +1,6 @@
 {
- "count": 2362,
- "bytes": 794398324,
+ "count": 2387,
+ "bytes": 795820460,
  "sounds": [
   {
    "id": "sfx-mi458453",
@@ -4515,6 +4515,30 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/cartoon/cartoon-whip-pipe-01.mp3"
   },
   {
+   "id": "sfx-fs151446",
+   "title": "Adhesive Spin Unwind 01",
+   "category": "foley",
+   "description": "Packing tape unrolled from its roll. It lasts 5.29 seconds, begins softly and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Kéo dài cuộn băng keo đóng thùng. Âm kéo dài 5,29 giây, bắt đầu nhẹ nhàng và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 5.293,
+   "bytes": 147492,
+   "sha256": "15f35644d7f1890358afc81cf8df08303d7034b8beaf40da270cde67ed9b7c03",
+   "path": "foley/foley-adhesive-spin-unwind-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-adhesive-spin-unwind-01.mp3"
+  },
+  {
+   "id": "sfx-fs399344",
+   "title": "Air Cushion Burst 01",
+   "category": "foley",
+   "description": "Bubble wrap squeezed, several bubbles bursting at once. It lasts 1.49 seconds and fades quickly. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Bóp vỡ nhiều bóng xốp hơi cùng lúc. Âm kéo dài 1,49 giây và tắt nhanh. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 1.493,
+   "bytes": 43052,
+   "sha256": "636b0f3b6850227076ebce4c69a7496f5e553647c5f153142796ba061fd682b9",
+   "path": "foley/foley-air-cushion-burst-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-air-cushion-burst-01.mp3"
+  },
+  {
    "id": "sfx-mi449184",
    "title": "Aperture Snap 01",
    "category": "foley",
@@ -4815,6 +4839,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-burr-mill-spin-01.mp3"
   },
   {
+   "id": "sfx-fs509112",
+   "title": "Cabinet Magnet Catch 01",
+   "category": "foley",
+   "description": "A cupboard door with a magnetic catch closing. It lasts 1.75 seconds and starts sharply. The sound is mono.",
+   "description_vi": "Cửa tủ có chốt nam châm đóng lại. Âm kéo dài 1,75 giây, khởi âm nhanh. Âm thanh mono.",
+   "duration_s": 1.754,
+   "bytes": 43916,
+   "sha256": "152c6fb8f5b59fe0b47e09739ecf4bb2a6efdd7df1b1ae327705e750fc21025e",
+   "path": "foley/foley-cabinet-magnet-catch-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cabinet-magnet-catch-01.mp3"
+  },
+  {
    "id": "sfx-fs785884",
    "title": "Cafe Counter Brewer 01",
    "category": "foley",
@@ -4837,6 +4873,66 @@
    "sha256": "7754bce5785b8d575ed0af5234a9e5a09cd251fb9173caf8f2517ddba9bf1398",
    "path": "foley/foley-capsicum-searing-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-capsicum-searing-01.mp3"
+  },
+  {
+   "id": "sfx-fs364740",
+   "title": "Carton Flap Lift 01",
+   "category": "foley",
+   "description": "A cardboard box flap lifted open, for unboxing. It lasts 1 second. The spectrum is bright; the sound is mono.",
+   "description_vi": "Mở nắp một ngăn hộp các-tông, gọn. Âm kéo dài 1 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.0,
+   "bytes": 21020,
+   "sha256": "fd475320025abe7330d390c52c199e6902b65b17aeee5227cf6df62b5c7aa617",
+   "path": "foley/foley-carton-flap-lift-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-carton-flap-lift-01.mp3"
+  },
+  {
+   "id": "sfx-fs500283",
+   "title": "Carton Floor Fall 01",
+   "category": "foley",
+   "description": "A cardboard box dropping onto the floor. It lasts 1.05 seconds and starts sharply. The sound is mono.",
+   "description_vi": "Hộp các-tông rơi xuống sàn. Âm kéo dài 1,05 giây, khởi âm nhanh. Âm thanh mono.",
+   "duration_s": 1.048,
+   "bytes": 23890,
+   "sha256": "8ef897c3d6a98a641c0da379199525491242f3b0d2b4f90c9731b7a019a65b6a",
+   "path": "foley/foley-carton-floor-fall-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-carton-floor-fall-01.mp3"
+  },
+  {
+   "id": "sfx-fs235807",
+   "title": "Carton Lid Up Down 01",
+   "category": "foley",
+   "description": "A cardboard box opened and closed again. It lasts 3.87 seconds and fades quickly. The spectrum is bright; the sound is in stereo.",
+   "description_vi": "Mở rồi đóng một hộp các-tông. Âm kéo dài 3,87 giây và tắt nhanh. Phổ sáng; âm thanh stereo.",
+   "duration_s": 3.871,
+   "bytes": 95746,
+   "sha256": "6ef45fa0706156609c783ae257cbcf5d490a9388220665e678713870ebe8a6b6",
+   "path": "foley/foley-carton-lid-up-down-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-carton-lid-up-down-01.mp3"
+  },
+  {
+   "id": "sfx-fs487850",
+   "title": "Carton Table Push 01",
+   "category": "foley",
+   "description": "A cardboard box pushed across a table. It lasts 1 second. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đẩy hộp các-tông trượt trên mặt bàn. Âm kéo dài 1 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.0,
+   "bytes": 24524,
+   "sha256": "680725961ba9db27b54816adc50ceac1415226bb14d4a8fb1233e4b9b473a7a1",
+   "path": "foley/foley-carton-table-push-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-carton-table-push-01.mp3"
+  },
+  {
+   "id": "sfx-fs452567",
+   "title": "Carton Wings Unfold 01",
+   "category": "foley",
+   "description": "The flaps of a cardboard box folded open one by one. It lasts 6.44 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Mở từng nắp gấp của thùng các-tông. Âm kéo dài 6,44 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 6.441,
+   "bytes": 154748,
+   "sha256": "05544d572ead2f7d1bc5be1cf5a60ef170039fcb6b018a36dfb5e291b4c90e78",
+   "path": "foley/foley-carton-wings-unfold-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-carton-wings-unfold-01.mp3"
   },
   {
    "id": "sfx-46b5f3fcb6",
@@ -5017,6 +5113,42 @@
    "sha256": "b19d0b32f2851b3278ec32ed5c9494d32b01d37ffbf67b2554fd367d55494e28",
    "path": "foley/foley-chest-open-close-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-chest-open-close-01.mp3"
+  },
+  {
+   "id": "sfx-fs369915",
+   "title": "Clear Adhesive Pull 01",
+   "category": "foley",
+   "description": "Clear sticky tape pulled out and torn off. It lasts 3.18 seconds. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Kéo rồi xé băng dính trong. Âm kéo dài 3,18 giây. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 3.184,
+   "bytes": 87723,
+   "sha256": "677179fa0ee89f74073f6eb1b75ae3d85fce67406e2873eea28d033fafb7027b",
+   "path": "foley/foley-clear-adhesive-pull-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-clear-adhesive-pull-01.mp3"
+  },
+  {
+   "id": "sfx-fs431213",
+   "title": "Cling Film Wind 01",
+   "category": "foley",
+   "description": "Plastic wrap stretched and wound around something. It lasts 5.37 seconds. The spectrum is bright; the stereo field is wide.",
+   "description_vi": "Kéo màng bọc nhựa quấn quanh đồ vật. Âm kéo dài 5,37 giây. Phổ sáng; không gian stereo rộng.",
+   "duration_s": 5.369,
+   "bytes": 140263,
+   "sha256": "2e5342cf3aa1ff049d1014af33e02e9db59034933265e167e19846bd190134d5",
+   "path": "foley/foley-cling-film-wind-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-cling-film-wind-01.mp3"
+  },
+  {
+   "id": "sfx-fs378856",
+   "title": "Container Cap Seat 01",
+   "category": "foley",
+   "description": "A plastic lid popped off a container and pressed back on. It lasts 2.14 seconds, starts sharply and fades quickly. The sound is mono.",
+   "description_vi": "Nắp nhựa bật ra rồi ấn vào lại. Âm kéo dài 2,14 giây, khởi âm nhanh và tắt nhanh. Âm thanh mono.",
+   "duration_s": 2.143,
+   "bytes": 47341,
+   "sha256": "84b01c301d219b17eaafc4164cceaf578d486c3c5bdfa3d08134e01604264867",
+   "path": "foley/foley-container-cap-seat-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-container-cap-seat-01.mp3"
   },
   {
    "id": "sfx-fs379829",
@@ -5403,6 +5535,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-drama-splash-01.mp3"
   },
   {
+   "id": "sfx-fs520955",
+   "title": "Earbud Shell Flip 01",
+   "category": "foley",
+   "description": "A small magnetic earbud case lid flipped open. It lasts 0.82 seconds and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Bật mở nắp hộp tai nghe có nam châm. Âm kéo dài 0,82 giây và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 0.824,
+   "bytes": 19353,
+   "sha256": "9737267ad7455219fe14c579d9abc51aca48b72ccf6034f22309ffdcd12e1ea1",
+   "path": "foley/foley-earbud-shell-flip-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-earbud-shell-flip-01.mp3"
+  },
+  {
    "id": "sfx-fs56563",
    "title": "Electric Bean Crusher 01",
    "category": "foley",
@@ -5509,6 +5653,18 @@
    "sha256": "86a4d07477755cb2476b0db349fcdf28ab667fd09f9379b51eadb58b959b3fb7",
    "path": "foley/foley-empty-triple-rap-01.wav",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-empty-triple-rap-01.wav"
+  },
+  {
+   "id": "sfx-fs156001",
+   "title": "Entryway In Out 01",
+   "category": "foley",
+   "description": "A front door opening and then closing. It lasts 3.94 seconds and starts sharply. The sound is mono.",
+   "description_vi": "Mở rồi đóng cửa chính. Âm kéo dài 3,94 giây, khởi âm nhanh. Âm thanh mono.",
+   "duration_s": 3.936,
+   "bytes": 74300,
+   "sha256": "d99c76a3510ebe6d290a6a142fbee2facdcf51c4f6f72729f60a3c393efeceb9",
+   "path": "foley/foley-entryway-in-out-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-entryway-in-out-01.mp3"
   },
   {
    "id": "sfx-mi332165",
@@ -5761,6 +5917,42 @@
    "sha256": "e872c770d52f98c0ea5fd9e8ef3df7291df3b692fdadaa6bf4f5c0bb2ce2644a",
    "path": "foley/foley-flash-plop-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-flash-plop-01.mp3"
+  },
+  {
+   "id": "sfx-fs267711",
+   "title": "Fob Ring Grab 01",
+   "category": "foley",
+   "description": "A bunch of keys picked up from a table. It lasts 2.17 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Nhặt chùm chìa khóa khỏi mặt bàn. Âm kéo dài 2,17 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 2.174,
+   "bytes": 43172,
+   "sha256": "565c0bb9579c71fe46cce4e5caded5d4a007694886544d6e96a13299a6a2d643",
+   "path": "foley/foley-fob-ring-grab-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-fob-ring-grab-01.mp3"
+  },
+  {
+   "id": "sfx-fs390324",
+   "title": "Fob Ring Jangle 01",
+   "category": "foley",
+   "description": "A bunch of keys jingling on a key ring. It lasts 2.4 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Chùm chìa khóa lắc leng keng. Âm kéo dài 2,4 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 2.4,
+   "bytes": 62828,
+   "sha256": "49a2f9ff10b4f7a23d1b63ee062336d71765158ae347a45bacfd850ab59c15fd",
+   "path": "foley/foley-fob-ring-jangle-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-fob-ring-jangle-01.mp3"
+  },
+  {
+   "id": "sfx-fs248046",
+   "title": "Fob Ring Rest 01",
+   "category": "foley",
+   "description": "A bunch of keys set down on a table. It lasts 1.36 seconds. The spectrum is bright; the sound is mono.",
+   "description_vi": "Đặt chùm chìa khóa xuống bàn. Âm kéo dài 1,36 giây. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.365,
+   "bytes": 29324,
+   "sha256": "d49b1f0a0a56d533d268ff6fec6f37adfc384e9377fc27ec390d6a360c9be2db",
+   "path": "foley/foley-fob-ring-rest-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-fob-ring-rest-01.mp3"
   },
   {
    "id": "sfx-ece03df529",
@@ -6279,6 +6471,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-light-switch-01.mp3"
   },
   {
+   "id": "sfx-fs371704",
+   "title": "Little Cover Lift 01",
+   "category": "foley",
+   "description": "A small box lid lifted open. It lasts 1.87 seconds, starts sharply and fades quickly. The stereo field is wide.",
+   "description_vi": "Mở một nắp hộp nhỏ. Âm kéo dài 1,87 giây, khởi âm nhanh và tắt nhanh. Không gian stereo rộng.",
+   "duration_s": 1.871,
+   "bytes": 48472,
+   "sha256": "c064f995a2fea10697e8cb8f9c3c6e138a8b843dcf0cf5ca78b2a4151d2208ef",
+   "path": "foley/foley-little-cover-lift-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-little-cover-lift-01.mp3"
+  },
+  {
    "id": "sfx-71da0f61f7",
    "title": "Machine Clatter 01",
    "category": "foley",
@@ -6291,6 +6495,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-machine-clatter-01.wav"
   },
   {
+   "id": "sfx-fs520954",
+   "title": "Magnet Shell Shut 01",
+   "category": "foley",
+   "description": "A small magnetic earbud case lid closing with a click. It lasts 0.61 seconds, starts sharply and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Hộp tai nghe có nam châm đóng lại, tách gọn. Âm kéo dài 0,61 giây, khởi âm nhanh và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 0.615,
+   "bytes": 15674,
+   "sha256": "03cdedcb01b0208dbcefccca57eb48a4371678f21c4525cf90307fdf7c0e1b0c",
+   "path": "foley/foley-magnet-shell-shut-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-magnet-shell-shut-01.mp3"
+  },
+  {
    "id": "sfx-fdb3d12e17",
    "title": "Metal Wrench 01",
    "category": "foley",
@@ -6301,6 +6517,30 @@
    "sha256": "a8c46561c75d0af161bc0f4bbc279e1dcfebdd533e3821de67d0d42dfa80072f",
    "path": "foley/foley-metal-wrench-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-metal-wrench-01.mp3"
+  },
+  {
+   "id": "sfx-fs149034",
+   "title": "Mike Check Thump 01",
+   "category": "foley",
+   "description": "Tapping a microphone to check that it is on. It lasts 2.45 seconds, starts sharply and fades quickly. The spectrum has low spectral brightness; the stereo field is narrow.",
+   "description_vi": "Gõ thử micro trước khi nói. Âm kéo dài 2,45 giây, khởi âm nhanh và tắt nhanh. Âm có độ sáng phổ thấp; không gian stereo hẹp.",
+   "duration_s": 2.454,
+   "bytes": 49874,
+   "sha256": "676a082a86b82bc6fb6ddf0d86ab0a8f8ecd1a53625fc12eb4f732ce0c2e4877",
+   "path": "foley/foley-mike-check-thump-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mike-check-thump-01.mp3"
+  },
+  {
+   "id": "sfx-fs741035",
+   "title": "Mike Head Pats 01",
+   "category": "foley",
+   "description": "A few light taps on a microphone. It lasts 1.58 seconds, begins softly and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Gõ nhẹ vào micro vài lần. Âm kéo dài 1,58 giây, bắt đầu nhẹ nhàng và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.579,
+   "bytes": 33404,
+   "sha256": "5f0f46cb018fea4febd89311677d5bb81825924e82a2d59c2b8b5fb46ff3c075",
+   "path": "foley/foley-mike-head-pats-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-mike-head-pats-01.mp3"
   },
   {
    "id": "sfx-fs503557",
@@ -7071,6 +7311,18 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-pure-twin-groan-02.wav"
   },
   {
+   "id": "sfx-fs223375",
+   "title": "Quick Adhesive Rip 01",
+   "category": "foley",
+   "description": "A quick rip of sticky tape. It lasts 0.5 seconds, begins softly and fades quickly. The spectrum is bright; the sound is mono.",
+   "description_vi": "Xé nhanh một đoạn băng keo. Âm kéo dài 0,5 giây, bắt đầu nhẹ nhàng và tắt nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 0.499,
+   "bytes": 16225,
+   "sha256": "61104b31aa5683f389c5f15a1755a06cf40eeccc00098a4736a2fe571d9c99ee",
+   "path": "foley/foley-quick-adhesive-rip-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-quick-adhesive-rip-01.mp3"
+  },
+  {
    "id": "sfx-fs257518",
    "title": "Quick Scrawl 01",
    "category": "foley",
@@ -7203,6 +7455,30 @@
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-ripping-shuffle-06.wav"
   },
   {
+   "id": "sfx-fs117614",
+   "title": "Room Entry Shut 01",
+   "category": "foley",
+   "description": "A room door closing with a latch click. It lasts 1.23 seconds and begins softly. The stereo field is wide.",
+   "description_vi": "Đóng cửa phòng, chốt cửa sập lại. Âm kéo dài 1,23 giây, bắt đầu nhẹ nhàng. Không gian stereo rộng.",
+   "duration_s": 1.233,
+   "bytes": 31356,
+   "sha256": "c9d2eb4e94a0decb0d5278c97ea155114138711e459d606d5e79eb95d4792e1d",
+   "path": "foley/foley-room-entry-shut-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-room-entry-shut-01.mp3"
+  },
+  {
+   "id": "sfx-fs398750",
+   "title": "Room Entry Unlatch 01",
+   "category": "foley",
+   "description": "A room door opening, with the latch and hinge. It lasts 1.24 seconds. The sound is in stereo.",
+   "description_vi": "Mở cửa phòng, có tiếng chốt và bản lề. Âm kéo dài 1,24 giây. Âm thanh stereo.",
+   "duration_s": 1.243,
+   "bytes": 34316,
+   "sha256": "77541e89f3bf70f2f427459426e451df0dc24f90d69a5708970e7b6fd6e5f0c2",
+   "path": "foley/foley-room-entry-unlatch-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-room-entry-unlatch-01.mp3"
+  },
+  {
    "id": "sfx-mi453324",
    "title": "Russian Aperture 01",
    "category": "foley",
@@ -7213,6 +7489,18 @@
    "sha256": "9f13ab1375a71143b1d5e7527fa859c7198dd240838f0d88efbf568a12276c45",
    "path": "foley/foley-russian-aperture-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-russian-aperture-01.mp3"
+  },
+  {
+   "id": "sfx-fs332225",
+   "title": "Seal Strip Peel 01",
+   "category": "foley",
+   "description": "Packing tape peeled off a cardboard box, for unboxing. It lasts 3.72 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Kéo băng keo khỏi thùng hàng khi khui hộp. Âm kéo dài 3,72 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 3.719,
+   "bytes": 90783,
+   "sha256": "0bdccaf726dc57c3cd88576032380311dfff07d96f420d9c51604d5a588114e7",
+   "path": "foley/foley-seal-strip-peel-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-seal-strip-peel-01.mp3"
   },
   {
    "id": "sfx-fs381715",
@@ -7261,6 +7549,18 @@
    "sha256": "48a8346321fa9bda09814cdcc3406934e7b3b008a0a5d413292f150c9b802d66",
    "path": "foley/foley-sheet-push-01.mp3",
    "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-sheet-push-01.mp3"
+  },
+  {
+   "id": "sfx-fs441649",
+   "title": "Shipment Carton Reveal 01",
+   "category": "foley",
+   "description": "Opening a cardboard shipping box, for unboxing. It lasts 1.7 seconds and starts sharply. The spectrum is bright; the sound is mono.",
+   "description_vi": "Khui hộp bưu kiện các-tông khi mở hàng. Âm kéo dài 1,7 giây, khởi âm nhanh. Phổ sáng; âm thanh mono.",
+   "duration_s": 1.7,
+   "bytes": 43340,
+   "sha256": "66465da34e5ea90437fd0f8714bab0760aef6cf5307c15b5b3713fef450c1ff3",
+   "path": "foley/foley-shipment-carton-reveal-01.mp3",
+   "url": "https://raw.githubusercontent.com/EditAtlas/sfx/main/foley/foley-shipment-carton-reveal-01.mp3"
   },
   {
    "id": "sfx-mi543497",
